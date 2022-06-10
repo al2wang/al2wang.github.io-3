@@ -38,7 +38,7 @@ ol, ul {
 }
 
 blockquote, q {
-	quotes: 114514114514114514114514;
+	quotes: none;
 }
 
 	blockquote:before, blockquote:after, q:before, q:after {
