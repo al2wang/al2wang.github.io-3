@@ -21,3 +21,12 @@ $$
 $$
 \mathrm e^{\mathrm i \theta} = \cos \theta + \mathrm i \sin \theta
 $$
+
+$$
+ \boldsymbol{\mathbf{V}}  = 
+ \begin{pmatrix}1 & x_1 & x_1^2 & \dots & x_1^{m-1}\\
+1 & x_2 & x_2^2 & \dots & x_2^{m-1}\\
+1 & x_3 & x_3^2 & \dots & x_3^{m-1}\\
+\vdots & \vdots & \vdots & \ddots & \vdots\\
+1 & x_n & x_n^2 & \dots & x_n^{m-1}\end{pmatrix} 
+$$
