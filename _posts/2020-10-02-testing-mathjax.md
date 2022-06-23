@@ -15,3 +15,9 @@ $$
 i\hbar \frac{\partial \Psi}{\partial t} = -\frac{\hbar^2}{2m}
 \frac{\partial^2 \Psi}{\partial x^2} + V \Psi
 $$
+
+你猜猜这是啥？
+
+$$
+e^{\mathrm i \theta} = \cos \theta + \mathrm i \sin \theta
+$$
