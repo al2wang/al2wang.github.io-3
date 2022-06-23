@@ -19,5 +19,5 @@ $$
 你猜猜这是啥？
 
 $$
-e^{\mathrm i \theta} = \cos \theta + \mathrm i \sin \theta
+\mathrm e^{\mathrm i \theta} = \cos \theta + \mathrm i \sin \theta
 $$
