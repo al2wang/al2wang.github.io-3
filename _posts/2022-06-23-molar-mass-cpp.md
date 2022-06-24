@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Testing MathJax
-tags: mathjax
+title: Calculation of molar mass by C++ programming
+tags: mathjax C++
 math: true
-date: 2020-10-02 15:32 +0800
+date: 2022-06-23 20:38 +0800
 ---
 Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
 
