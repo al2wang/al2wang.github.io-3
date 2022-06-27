@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
 Hi there! I’m Alex Wang, a passionate high school student exploring the realm of science, maths, and programming.
