@@ -39,9 +39,9 @@ Also, I do private tutoring online over Zoom/Tencent Meeting, in the following s
 ### Some of my qualifications
 - AP Calculus AB/BC (5)
 - AP Physics C MC/EM (5)
-- CanPhO: Gold medal (national rk \\\(\bf{\# 12}\\\), provincial rk \\\(\bf{\# 2}\\\))
-- AuPhO: Gold medal (global rk **top \\\(\bf{\# 10}\\\)**, schoolwide rk \\\(\bf{\# 1}\\\))
+- CanPhO: Gold medal (national rk \\\(\bf{12^{\text{th}}}\\\), provincial rk \\\(\bf{2^{\text{nd}}}\\\))
+- AuPhO: Gold medal (global rk **top \\\(\bf{10}\\\)**, schoolwide rk \\\(\bf{1^{\text{st}}}\\\))
 - USAYPT: Team leader at Shenzhen Middle School
-- PUPC: HM award (global rk **top \\\(\bf{\# 30}\\\)**, schoolwide rk \\\(\bf{\# 1}\\\))
+- PUPC: HM award (global rk **top \\\(\bf{30}\\\)**, schoolwide rk \\\(\bf{1^{\text{st}}}\\\))
 - Clubs: Chief Senior of *Discovery Physics Club* at SZMS and Core Staff of SMSPhO/SMSYPT Initiative
 - etc.
