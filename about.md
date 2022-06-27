@@ -8,11 +8,11 @@ Hi there! I’m Alex G.Y.Wang, a passionate high school student exploring the re
 
 ### A brief profile
 
-I was born in Shenzhen, a major sub-provincial metropolis and one of the special economic zones of China. Currently, I’m schooling at Strathcona HS in Edmonton.
+I was born in Shenzhen, a major sub-provincial metropolis and one of the special economic zones of China. Currently, I’m schooling at Strathcona HS in Edmonton, AB.
 
 School bio: LFLS \\\(\' 20\\\) \\\(\rightarrow\\\) SZMS/Scona \\\(\' 23\\\)
 
-“Logic will get you from A to B. Imagination will take you everywhere.” <cite> Albert Einstein </cite>
+“Logic will get you from A to B. Imagination will take you everywhere.” <cite>  —— Albert Einstein </cite>
 {: .message }
 
 ### Peer tutorings
