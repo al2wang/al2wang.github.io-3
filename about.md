@@ -10,9 +10,10 @@ Hi there! I’m Alex Wang, a passionate high school student exploring the realm 
 
 I was born in Shenzhen, a major sub-provincial metropolis and one of the special economic zones of China. Currently, I’m schooling at Strathcona HS in Edmonton.
 
-Bio: LFLS \\\(\' 20\\\) \\\(\rightarrow\\\) SZMS/Scona \\\(\' 23\\\)
+School bio: LFLS \\\(\' 20\\\) \\\(\rightarrow\\\) SZMS/Scona \\\(\' 23\\\)
 
-<mark> “It is not good enough to have a good mind. The main thing is to use it well.” <cite> Rene Descartes </cite> </mark>
+“It is not good enough to have a good mind. The main thing is to use it well.” <cite> Rene Descartes </cite>
+{: .message }
 
 ### Peer tutorings
 
