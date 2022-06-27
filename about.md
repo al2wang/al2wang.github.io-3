@@ -4,7 +4,7 @@ title: About Me
 math: true
 ---
 
-Hi there! I’m Alex Wang, a passionate high school student exploring the realm of science, maths, and programming.
+Hi there! I’m Alex G.Y.Wang, a passionate high school student exploring the realm of science, maths, and programming.
 
 ### A brief profile
 
@@ -12,7 +12,7 @@ I was born in Shenzhen, a major sub-provincial metropolis and one of the special
 
 School bio: LFLS \\\(\' 20\\\) \\\(\rightarrow\\\) SZMS/Scona \\\(\' 23\\\)
 
-“It is not good enough to have a good mind. The main thing is to use it well.” <cite> Rene Descartes </cite>
+“Logic will get you from A to B. Imagination will take you everywhere.” <cite> Albert Einstein </cite>
 {: .message }
 
 ### Peer tutorings
@@ -20,28 +20,34 @@ School bio: LFLS \\\(\' 20\\\) \\\(\rightarrow\\\) SZMS/Scona \\\(\' 23\\\)
 Also, I do private tutoring online over Zoom/Tencent Meeting, in the following subjects. Please contact me for details if you’re interested.
 
 1. School Math:
-- Algebra, Trigonometry, and Geometry (I)
 - Pre-Calculus
 - AP Calculus AB/BC
 - AP Statistics
 - Vector Calculus
 - Linear Algebra
 2. Competition Physics:
-- CAP Prize Exam (aka. CanPhO)
+- CaPhO (aka. CAP Prize Exam)
+- AuPhO (aka. ASOP)
 - PUPC (premier)
 - USAYPT
-- AuPhO
-6. Computer Science:
+3. Computer Science:
 - Intro to Informatics
-7. Standardized Test:
+4. Standardized Test:
 - TOEFL (R/L)
 
-### Some of my qualifications
-- AP Calculus AB/BC (5)
-- AP Physics C MC/EM (5)
-- CanPhO: Gold medal (national rk \\\(\bf{12^{\text{th}}}\\\), provincial rk \\\(\bf{2^{\text{nd}}}\\\))
-- AuPhO: Gold medal (global rk **top \\\(\bf{10}\\\)**, schoolwide rk \\\(\bf{1^{\text{st}}}\\\))
-- USAYPT: Team leader at Shenzhen Middle School
-- PUPC: HM award (global rk **top \\\(\bf{30}\\\)**, schoolwide rk \\\(\bf{1^{\text{st}}}\\\))
-- Clubs: Chief Senior of *Discovery Physics Club* at SZMS and Core Staff of SMSPhO/SMSYPT Initiative
-- etc.
+### Part of my qualifications
+1. Advance Placement:
+  - AP Calculus AB/BC: \\\(\bf{5}\\\)
+  - AP Physics C MC/EM: \\\(\bf{5}\\\)
+2. TOEFL
+  - \\\(\bf{110+}\\\)
+3. Physics Olympiads:
+  - CaPhO: Gold medal (Canadian rk \\\(\bf{12^{\text{th}}}\\\); Alberta rk \\\(\bf{2^{\text{nd}}}\\\))
+  - AuPhO: Gold medal (Global rk **top \\\(\bf{10}\\\)**; Schoolwide rk \\\(\bf{1^{\text{st}}}\\\))
+  - PUPC: HM award (Global rk **top \\\(\bf{30}\\\)**; Schoolwide rk \\\(\bf{1^{\text{st}}}\\\))
+  - USAYPT: Principal Investigator of SZMS school team
+4. Student Clubs at SZMS: 
+  - Chief Senior of *Discovery Physics*
+  - Core Staff of *SMSPhO/SMSYPT Initiative*
+  - Chief Editor of *Visionary Magazines*
+5. etc.
