@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+math: true
 ---
 
 Hi there! I’m Alex Wang, a passionate high school student exploring the realm of science, maths, and programming.
@@ -35,9 +36,9 @@ Also, I do private tutoring online over Zoom/Tencent Meeting, in the following s
 ### Some of my qualifications
 - AP Calculus AB/BC (5)
 - AP Physics C MC/EM (5)
-- CanPhO: Gold medal (national rk **#12**, provincial rk **#2**)
-- AuPhO: Gold medal (global rk **top #10**, schoolwide rk **#1**)
+- CanPhO: Gold medal (national rk \\\(\bold{#12}\\\), provincial rk \\\(\bold{#2}\\\))
+- AuPhO: Gold medal (global rk **top \\\(\bold{#10}\\\)**, schoolwide rk \\\(\bold{#1}\\\))
 - USAYPT: Team leader at Shenzhen Middle School
-- PUPC: HM award (global rk **#33**, schoolwide rk **#1**)
+- PUPC: HM award (global rk \\\(\bold{#33}\\\), schoolwide rk \\\(\bold{#1}\\\))
 - Clubs: Chief Senior of *Discovery Physics Club* at SZMS and Core Staff of SMSPhO/SMSYPT Initiative
 - etc.
