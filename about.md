@@ -20,7 +20,12 @@ Luohu Foreign Language School \\\(\' 20\\\) \\\(\rightarrow\\\) Shenzhen Middle 
 
 ## Interests
 
-Applied mathematics, physics, computer science, and creative writing.
+- Physics
+- Computer Science
+- Applied mathematics
+- Creative writing
+- Photography
+- etc.
 
 ## Peer tutorings
 
