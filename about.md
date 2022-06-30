@@ -62,15 +62,15 @@ Also, I do private tutoring online over Zoom/Tencent Meeting, in the following s
 - AuPhO
   - Gold medalist
   - Global ranking top \\\(\bf{10}\\\)
-  - Schoolwide ranking \\\(\bf{1^{\text{st}}}\\\))
+  - Schoolwide ranking \\\(\bf{1^{\text{st}}}\\\)
 - PUPC
   - Honorable Mention
   - Global ranking top \\\(\bf{30}\\\)
-  - Schoolwide ranking \\\(\bf{1^{\text{st}}}\\\))
+  - Schoolwide ranking \\\(\bf{1^{\text{st}}}\\\)
 - USAYPT
   - Principal Investigator of SZMS school team
   - 2021 Bibilashvili award
-  - 2021 Global Third Place
+  - 2021 Global \\\(\bf{3^{\text{rd}}}\\\) Place
 
 ### Student Clubs at SZMS
 
