@@ -2,52 +2,81 @@
 layout: page
 title: About Me
 math: true
+toc: true
 ---
-
-Hi there! I’m Alex G.Y.Wang, a passionate high school student exploring the realm of science, maths, and programming.
-
-### A brief profile
-
-I was born in Shenzhen, a major sub-provincial metropolis and one of the special economic zones of China. Currently, I’m schooling at Strathcona HS in Edmonton, AB.
-
-School bio: LFLS \\\(\' 20\\\) \\\(\rightarrow\\\) SZMS/Scona \\\(\' 23\\\)
 
 “Logic will get you from A to B. Imagination will take you everywhere.” <cite>  —— Albert Einstein </cite>
 {: .message }
 
-### Peer tutorings
+## A brief profile
 
-Also, I do private tutoring online over Zoom/Tencent Meeting, in the following subjects. Please contact me for details if you’re interested.
+Hi there! I’m Alex G. Wang, a passionate high school student exploring the realm of science, maths, and programming.
 
-1. School Math:
+I was born in Shenzhen, a major sub-provincial metropolis and one of the special economic zones of China. Currently, I’m schooling at Strathcona HS in Edmonton, AB.
+
+## School bio
+
+Luohu Foreign Language School \\\(\' 20\\\) \\\(\rightarrow\\\) Shenzhen Middle School \\\(+\\\) Strathcona High School \\\(\' 23\\\)
+
+## Interests
+
+Applied mathematics, computer science, writing, and content creation.
+
+## Peer tutorings
+
+I do private tutoring online over Zoom/Tencent Meeting, in the following subjects. Please contact me for details if you’re interested.
+
+### School Math
+
 - Pre-Calculus
 - AP Calculus AB/BC
 - AP Statistics
 - Vector Calculus
 - Linear Algebra
-2. Competition Physics:
-- CaPhO (aka. CAP Prize Exam)
-- AuPhO (aka. ASOP)
-- PUPC (premier)
+
+### Competition Physics
+- CaPhO (CAP Prize Exam)
+- AuPhO (ASOP)
+- PUPC (Premier)
 - USAYPT
-3. Computer Science:
+
+### Computer Science
+
 - Intro to Informatics
-4. Standardized Test:
+
+### Standardized Test
+
 - TOEFL (R/L)
 
-### Part of my qualifications
-1. Advance Placement:
-  - AP Calculus AB/BC: \\\(\bf{5}\\\)
-  - AP Physics C MC/EM: \\\(\bf{5}\\\)
-2. TOEFL
-  - \\\(\bf{110+}\\\)
-3. Physics Olympiads:
-  - CaPhO: Gold medal (Canadian rk \\\(\bf{12^{\text{th}}}\\\); Alberta rk \\\(\bf{2^{\text{nd}}}\\\))
-  - AuPhO: Gold medal (Global rk **top \\\(\bf{10}\\\)**; Schoolwide rk \\\(\bf{1^{\text{st}}}\\\))
-  - PUPC: HM award (Global rk **top \\\(\bf{30}\\\)**; Schoolwide rk \\\(\bf{1^{\text{st}}}\\\))
-  - USAYPT: Principal Investigator of SZMS school team
-4. Student Clubs at SZMS: 
-  - Chief Senior of *Discovery Physics*
-  - Core Staff of *SMSPhO/SMSYPT Initiative*
-  - Chief Editor of *Visionary Magazines*
-5. etc.
+## Part of my qualifications
+
+### Advance Placement
+
+- AP Calculus AB/BC: \\\(\bf{5}\\\)
+- AP Physics C MC/EM: \\\(\bf{5}\\\)
+
+### TOEFL
+
+- \\\(\bf{110+}\\\)
+
+### Physics Olympiads
+
+- CaPhO 2022
+  - Gold medalist, National Final qualifier
+  - Canadian \\\(\bf{12^{\text{th}}}\\\) Place; Alberta \\\(\bf{2^{\text{nd}}}\\\) Place
+- AuPhO 2021
+  - Gold medalist
+  - Global ranking top \\\(\bf{10}\\\); Schoolwide ranking \\\(\bf{1^{\text{st}}}\\\)
+- PUPC 2021
+  - Honorable Mention
+  - Global ranking top \\\(\bf{30}\\\); Schoolwide ranking \\\(\bf{1^{\text{st}}}\\\)
+- USAYPT 2021
+  - Bibilashvili award
+  - Global \\\(\bf{3^{\text{rd}}}\\\) Place
+  - Team Leader of 2022 SZMS school team
+
+### Student Clubs at SZMS
+
+- Chief Senior of *Discovery Physics*
+- Core Staff of *SMSPhO & SMSYPT Initiative*
+- Chief Editor of *Visionary Magazines*
