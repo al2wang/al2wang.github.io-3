@@ -2,11 +2,12 @@
 layout: page
 title: About Me
 math: true
+toc:  true
 ---
 
 Hi there! I’m Alex G.Y.Wang, a passionate high school student exploring the realm of science, maths, and programming.
 
-### A brief profile
+## A brief profile
 
 I was born in Shenzhen, a major sub-provincial metropolis and one of the special economic zones of China. Currently, I’m schooling at Strathcona HS in Edmonton, AB.
 
@@ -15,7 +16,7 @@ School bio: LFLS \\\(\' 20\\\) \\\(\rightarrow\\\) SZMS/Scona \\\(\' 23\\\)
 “Logic will get you from A to B. Imagination will take you everywhere.” <cite>  —— Albert Einstein </cite>
 {: .message }
 
-### Peer tutorings
+## Peer tutorings
 
 Also, I do private tutoring online over Zoom/Tencent Meeting, in the following subjects. Please contact me for details if you’re interested.
 
@@ -35,7 +36,7 @@ Also, I do private tutoring online over Zoom/Tencent Meeting, in the following s
 4. Standardized Test:
 - TOEFL (R/L)
 
-### Part of my qualifications
+## Part of my qualifications
 1. Advance Placement:
   - AP Calculus AB/BC: \\\(\bf{5}\\\)
   - AP Physics C MC/EM: \\\(\bf{5}\\\)
