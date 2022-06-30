@@ -2,19 +2,21 @@
 layout: page
 title: About Me
 math: true
-toc:  true
+toc: true
 ---
-
-Hi there! I’m Alex G. Wang, a passionate high school student exploring the realm of science, maths, and programming.
-
-## A brief profile
-
-I was born in Shenzhen, a major sub-provincial metropolis and one of the special economic zones of China. Currently, I’m schooling at Strathcona HS in Edmonton, AB.
-
-School bio: LFLS \\\(\' 20\\\) \\\(\rightarrow\\\) SZMS/Scona \\\(\' 23\\\)
 
 “Logic will get you from A to B. Imagination will take you everywhere.” <cite>  —— Albert Einstein </cite>
 {: .message }
+
+## A brief profile
+
+Hi there! I’m Alex G. Wang, a passionate high school student exploring the realm of science, maths, and programming.
+
+I was born in Shenzhen, a major sub-provincial metropolis and one of the special economic zones of China. Currently, I’m schooling at Strathcona HS in Edmonton, AB.
+
+## School bio
+
+Luohu Foreign Language School \\\(\' 20\\\) \\\(\rightarrow\\\) Shenzhen Middle School \\\(+\\\) Strathcona High School \\\(\' 23\\\)
 
 ## Peer tutorings
 
