@@ -5,7 +5,7 @@ math: true
 toc:  true
 ---
 
-Hi there! I’m Alex G.Y.Wang, a passionate high school student exploring the realm of science, maths, and programming.
+Hi there! I’m Alex G. Wang, a passionate high school student exploring the realm of science, maths, and programming.
 
 ## A brief profile
 
@@ -29,8 +29,8 @@ Also, I do private tutoring online over Zoom/Tencent Meeting, in the following s
 - Linear Algebra
 
 ### Competition Physics
-- CaPhO (aka. CAP Prize Exam)
-- AuPhO (aka. ASOP)
+- CaPhO (CAP Prize Exam)
+- AuPhO (ASOP)
 - PUPC (Premier)
 - USAYPT
 
