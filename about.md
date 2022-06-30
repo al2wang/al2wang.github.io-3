@@ -18,9 +18,13 @@ I was born in Shenzhen, a major sub-provincial metropolis and one of the special
 
 Luohu Foreign Language School \\\(\' 20\\\) \\\(\rightarrow\\\) Shenzhen Middle School \\\(+\\\) Strathcona High School \\\(\' 23\\\)
 
+## Interests
+
+Applied mathematics, computer science, writing, and content creation.
+
 ## Peer tutorings
 
-Also, I do private tutoring online over Zoom/Tencent Meeting, in the following subjects. Please contact me for details if you’re interested.
+I do private tutoring online over Zoom/Tencent Meeting, in the following subjects. Please contact me for details if you’re interested.
 
 ### School Math
 
@@ -58,17 +62,14 @@ Also, I do private tutoring online over Zoom/Tencent Meeting, in the following s
 ### Physics Olympiads
 
 - CaPhO 2022
-  - Gold medalist
-  - Canadian \\\(\bf{12^{\text{th}}}\\\) Place
-  - Alberta \\\(\bf{2^{\text{nd}}}\\\) Place
+  - Gold medalist, National Final qualifier
+  - Canadian \\\(\bf{12^{\text{th}}}\\\) Place; Alberta \\\(\bf{2^{\text{nd}}}\\\) Place
 - AuPhO 2021
   - Gold medalist
-  - Global ranking top \\\(\bf{10}\\\)
-  - Schoolwide ranking \\\(\bf{1^{\text{st}}}\\\)
+  - Global ranking top \\\(\bf{10}\\\); Schoolwide ranking \\\(\bf{1^{\text{st}}}\\\)
 - PUPC 2021
   - Honorable Mention
-  - Global ranking top \\\(\bf{30}\\\)
-  - Schoolwide ranking \\\(\bf{1^{\text{st}}}\\\)
+  - Global ranking top \\\(\bf{30}\\\); Schoolwide ranking \\\(\bf{1^{\text{st}}}\\\)
 - USAYPT 2021
   - Bibilashvili award
   - Global \\\(\bf{3^{\text{rd}}}\\\) Place
@@ -79,4 +80,3 @@ Also, I do private tutoring online over Zoom/Tencent Meeting, in the following s
 - Chief Senior of *Discovery Physics*
 - Core Staff of *SMSPhO & SMSYPT Initiative*
 - Chief Editor of *Visionary Magazines*
-- etc.
