@@ -21,6 +21,7 @@
   --green: #40c057;
   --yellow: #fab005;
   --orange: #fd7e14;
+  --darkslategray: #2f4f4f;
 
   --blue-300: #74c0fc;
   --blue-400: #4dabf7;
@@ -54,7 +55,8 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --body-color: var(--gray-300);
-    --body-bg: var(--gray-800);
+    --body-bg: var(--darkslategray);
+    // --body-bg: var(--gray-800);
 
     --heading-color: #fff;
 
