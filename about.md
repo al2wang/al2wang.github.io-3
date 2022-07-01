@@ -19,7 +19,7 @@ I was born in Shenzhen, a major sub-provincial metropolis and one of the special
 
 ## School bio
 
-Luohu Foreign Language School \\\(\textbf{LFLS } \' 20\\\) \\\(\rightarrow\\\) Shenzhen Middle School \\\(\textbf{SZMS } +\\\) Strathcona High School \\\(\textbf{Scona } \' 23\\\)
+\\\(\textbf{LFLS } \' 20 \rightarrow \textbf{SZMS } + \textbf{Scona } \' 23\\\)
 
 ## Interests
 
