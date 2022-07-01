@@ -70,14 +70,15 @@ I do private tutoring online over Zoom/Tencent Meeting, in the following subject
 ### Physics Olympiads
 
 - CaPhO 2022
-  - Gold medalist; National Final qualifier
+  - Gold medalist
+  - National Final qualifier
   - Canadian \\\(\bf{12^{\text{th}}}\\\) place; Alberta \\\(\bf{2^{\text{nd}}}\\\) place
 - AuPhO 2021
   - Gold medalist
-  - Global ranking top \\\(\bf{10}\\\); Schoolwide \\\(\bf{1^{\text{st}}}\\\) place
+  - Global ranking top \\\(\bf{10}\\\)
 - PUPC 2021
   - Honorable Mention
-  - Global ranking top \\\(\bf{30}\\\); Schoolwide \\\(\bf{1^{\text{st}}}\\\) place
+  - Global ranking top \\\(\bf{30}\\\)
 - USAYPT 2021
   - Bibilashvili award
   - Global \\\(\bf{3^{\text{rd}}}\\\) place
