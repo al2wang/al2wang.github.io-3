@@ -10,7 +10,6 @@
   --gray-800: #343a40;
   --gray-900: #212529;
 
-  --ivory: #fffff0;
   --red: #fa5252;
   --pink: #e64980;
   --grape: #be4bdb;
@@ -30,8 +29,7 @@
   --body-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --body-font-size: 18px;
   --body-line-height: 1.5;
-  --body-color: var(--ivory);
-  //   --body-color: var(--gray-700);
+  --body-color: var(--gray-700);
   --body-bg: #fff;
 
   --text-font: Times, "Times New Roman", "Free Serif", "Noto Serif", TimesNewRomanPSMT, "Droid Serif";
@@ -39,9 +37,9 @@
   --link-color: var(--blue);
   --link-hover-color: #1c7ed6;
 
-  --heading-color: var(--gray-300);
+  --heading-color: var(--gray-900);
 
-  --border-color: var(--gray-900);
+  --border-color: var(--gray-300);
   --border-radius: .25rem;
 
   --code-font: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
@@ -55,10 +53,8 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --body-color: var(--gray-800); // 
-    //    --body-bg: var(--gray-300);
-    --body-bg: var(--ivory); // 主页背景
-    //    --body-bg: var(--gray-800);
+    --body-color: var(--gray-300);
+    --body-bg: var(--gray-800);
 
     --heading-color: #fff;
 
