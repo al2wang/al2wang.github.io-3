@@ -1,212 +1,215 @@
-# AL2's Blog <!-- omit in toc -->
+# LoveIt Theme | Hugo [![Netlify Status](https://api.netlify.com/api/v1/badges/e60303f2-862c-4342-bf59-7c9adb10812e/deploy-status)](https://app.netlify.com/sites/hugo-loveit/deploys)
 
-<a href="https://jekyll-themes.com">
-  <img src="https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/dillonzq/LoveIt?style=flat-square)](https://github.com/dillonzq/LoveIt/releases)
+[![Hugo](https://img.shields.io/badge/Hugo-%5E0.62.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
+[![License](https://img.shields.io/github/license/dillonzq/LoveIt?style=flat-square)](https://github.com/dillonzq/LoveIt/blob/master/LICENSE)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=dillonzq_LoveIt&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=dillonzq_LoveIt)
+[![CircleCI](https://circleci.com/gh/dillonzq/LoveIt/tree/master.svg?style=svg)](https://circleci.com/gh/dillonzq/LoveIt/tree/master)
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+English README | [简体中文说明](https://github.com/dillonzq/LoveIt/blob/master/README.zh-cn.md)
 
-> Poole explains that Jekyll has been asking for a particular chemical for days now but every time it has been fetched for him he rejects it as **not pure**. Poole also explains that he caught a glimpse of the man inside and he looked barely human.
->
-> -- <a href="https://www.bbc.co.uk/bitesize/guides/zbtjnrd/revision/6"><cite>The death of Jekyll</cite></a>
+> **LoveIt** is a **clean**, **elegant** but **advanced** blog theme for [Hugo](https://gohugo.io/).
 
------
+It is based on the original [LeaveIt Theme](https://github.com/liuzc/LeaveIt) and [KeepIt Theme](https://github.com/Fastbyte01/KeepIt).
 
-See Not Pure Poole in action with [the demo site](https://vszhub.github.io/not-pure-poole/).
+Since the three themes have a similar look, if you have questions about their differences,
+read [Why choose LoveIt](#why-choose-loveit) so that you can choose the one that works best for you.
 
-![Screenshot](screenshot.png)
+![Hugo Theme LoveIt](https://github.com/dillonzq/LoveIt/raw/master/images/Apple-Devices-Preview.png)
 
-## Table of Contents <!-- omit in toc -->
+## [Demo Site](https://hugoloveit.com/)
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Configuration](#configuration)
-  - [Customizing Head](#customizing-head)
-  - [Creating Themes](#creating-themes)
-  - [Customizing Navigation](#customizing-navigation)
-  - [Customizing Cover Image](#customizing-cover-image)
-  - [Customizing Social Links](#customizing-social-links)
-  - [Enabling Posts Archive](#enabling-posts-archive)
-  - [Enabling TOC](#enabling-toc)
-  - [Enabling MathJax](#enabling-mathjax)
-  - [Something More](#something-more)
-- [Development](#development)
-- [License](#license)
+To see this theme in action, here is a live [demo site](https://hugoloveit.com/) which is rendered with **LoveIt** theme.
+
+## Why choose LoveIt
+
+Compared to the original LeaveIt theme and the KeepIt theme, the LoveIt theme has the following modifications.
+
+* Custom **Header**
+* Custom **CSS Style**
+* A new **home page**, compatible with the latest version of Hugo
+* A lot of **style detail adjustments,** including color, font size, margins, code preview style
+* More readable **dark mode**
+* Some beautiful **CSS animations**
+* Easy-to-use and self-expanding **table of contents**
+* More **social links**, **share sites** and **comment system**
+* **Search** supported by [Lunr.js](https://lunrjs.com/) or [algolia](https://www.algolia.com/)
+* **Copy code** to clipboard with one click
+* Extended Markdown syntax for **[Font Awesome](https://fontawesome.com/) icons**
+* Extended Markdown syntax for **ruby annotation**
+* Extended Markdown syntax for **fraction**
+* **Mathematical formula** supported by [KaTeX](https://katex.org/)
+* **Diagram syntax** shortcode supported by [mermaid](https://github.com/mermaid-js/mermaid)
+* **Interactive data visualization** shortcode supported by [ECharts](https://echarts.apache.org/)
+* **Mapbox** shortcode supported by [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js)
+* Embedded **music player** supported by [APlayer](https://github.com/MoePlayer/APlayer) and [MetingJS](https://github.com/metowolf/MetingJS)
+* **Bilibili** player supported
+* Kinds of **admonitions** shortcode supported
+* Custom style shortcodes supported
+* **CDN** for all third-party libraries supported
+* ...
+
+In short,
+if you prefer the design language and freedom of the LoveIt theme,
+if you want to use the extended Font Awesome icons conveniently,
+if you want to embed mathematical formulas, flowcharts, music or Bilibili videos in your posts,
+the LoveIt theme may be more suitable for you.
+
+I hope you will LoveIt ❤️!
 
 ## Features
 
-- [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag)
-- [Jekyll Feed](https://github.com/jekyll/jekyll-feed)
-- [Jekyll Sitemap](https://github.com/jekyll/jekyll-sitemap)
-- [Jekyll Gist](https://github.com/jekyll/jekyll-gist)
-- [Google Analytics](https://analytics.google.com/)
-- [Disqus](https://disqus.com/)
-- [Font Awesome](https://fontawesome.com/)
-- [MathJax](https://www.mathjax.org/)
-- Dark mode (enabled automatically via CSS media query)
-- Posts archive by dates, categories, and tags
-- Pagination, generated by [Jekyll Paginate](https://github.com/jekyll/jekyll-paginate)
-- TOC (generated by Vladimir "allejo" Jimenez's [jekyll-toc](https://github.com/allejo/jekyll-toc))
-- Related posts (time-based, because Jekyll) below each post
-- Mobile friendly design and development
-- Easily scalable text and component sizing with `rem` units in the CSS
-- Support for a wide gamut of HTML elements
-- Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+### Performance and SEO
 
-## Installation
+* Optimized for **performance**: 99/100 on mobile and 100/100 on desktop in [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights)
+* Optimized SEO performance with a correct **SEO SCHEMA** based on JSON-LD
+* **[Google Analytics](https://analytics.google.com/analytics)** supported
+* **[Fathom Analytics](https://usefathom.com/)** supported
+* **[Plausible Analytics](https://plausible.io/)** supported
+* **[Yandex Metrica](https://metrica.yandex.com/)** supported
+* Search engine **verification** supported (Google, Bind, Yandex and Baidu)
+* **CDN** for third-party libraries supported
+* Automatically converted images with **Lazy Load** by [lazysizes](https://github.com/aFarkas/lazysizes)
 
-You can choose one of the following methods to install Not Pure Poole:
+### Appearance and Layout
 
-- Directly specify the `not-pure-poole` gem.
+* **Desktop/Mobile Responsive** layout
+* **Light/Dark** mode
+* Globally consistent **design language**
+* **Pagination** supported
+* Easy-to-use and self-expanding **table of contents**
+* **Multilanguage** supported and i18n ready
+* Beautiful **CSS animation**
 
-    1. Add `gem 'not-pure-poole'` into your `Gemfile`.
-    2. Add the below lines into your `_config.yml`.
+### Social and Comment Systems
 
-        ```yml
-        plugins:
-          - not-pure-poole
-        ```
+* **Gravatar** supported by [Gravatar](https://gravatar.com)
+* Local **Avatar** supported
+* Up to **73** social links supported
+* Up to **24** share sites supported
+* **Disqus** comment system supported by [Disqus](https://disqus.com)
+* **Gitalk** comment system supported by [Gitalk](https://github.com/gitalk/gitalk)
+* **Valine** comment system supported by [Valine](https://valine.js.org/)
+* **Facebook comments** system supported by [Facebook](https://developers.facebook.com/docs/plugins/comments/)
+* **Telegram comments** system supported by [Telegram Comments](https://comments.app/)
+* **Commento** comment system supported by [Commento](https://commento.io/)
+* **utterances** comment system supported by [utterances](https://utteranc.es/)
+* **giscus** comment system supported by [giscus](https://giscus.app/)
 
-- If your site is hosted on GitHub Pages, you can use [`jekyll-remote-theme`](https://github.com/benbalter/jekyll-remote-theme) to import the master branch of Not Pure Poole.
+### Extended Features
 
-    1. Add `gem 'jekyll-remote-theme'` into your `Gemfile`.
-    2. Add the below lines into your `_config.yml`.
+* **Search** supported by [Lunr.js](https://lunrjs.com/) or [algolia](https://www.algolia.com/)
+* **Twemoji** supported
+* Automatically **highlighting** code
+* **Copy code** to clipboard with one click
+* **Images gallery** supported by [lightGallery](https://github.com/sachinchoolur/lightgallery)
+* Extended Markdown syntax for **[Font Awesome](https://fontawesome.com/) icons**
+* Extended Markdown syntax for **ruby annotation**
+* Extended Markdown syntax for **fraction**
+* **Mathematical formula** supported by [KaTeX](https://katex.org/)
+* **Diagrams** shortcode supported by [mermaid](https://github.com/mermaid-js/mermaid)
+* **Interactive data visualization** shortcode supported by [ECharts](https://echarts.apache.org/)
+* **Mapbox** shortcode supported by [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js)
+* **Music player** shortcode supported by [APlayer](https://github.com/MoePlayer/APlayer) and [MetingJS](https://github.com/metowolf/MetingJS)
+* **Bilibili player** shortcode
+* Kinds of **admonitions** shortcode
+* **Custom style** shortcode
+* **Custom script** shortcode
+* **Animated typing** supported by [TypeIt](https://typeitjs.com/)
+* **Cookie consent banner** supported by [cookieconsent](https://github.com/osano/cookieconsent)
+* **Person** shortcode
+* ...
 
-        ```yml
-        plugins:
-          - jekyll-remote-theme
+## [Documentation](https://hugoloveit.com/categories/documentation/)
 
-        remote_theme: vszhub/not-pure-poole
-        ```
+Build Documentation Locally:
 
-## Usage
-
-You can read this [example post](https://vszhub.github.io/not-pure-poole/2020/09/29/welcome-to-not-pure-poole/) to see the rendering result in this theme, and put the [source](_posts/2020-09-29-welcome-to-not-pure-poole.md) aside to learn some basic usages.
-
-### Configuration
-
-The [`_config.yml`](_config.yml) file in this repository already contains some variables, you can try to override them in your repository.
-
-### Customizing Head
-
-Not Pure Poole leaves a placeholder to allow defining custom head, in principle, you can add anything here, e.g. favicons. All you need to do is just creating a file `_includes/custom-head.html` and put data into it.
-
-### Creating Themes
-
-If you want to make your own color schemes, modify the CSS variables in the `_sass/_variables.scss` stylesheet with a scoped data attribute or class name.
-
-For example, below we've created the beginnings of a blue theme:
-
-```scss
-// Example blue theme
-[data-theme="blue"] {
-  --body-bg: var(--blue);
-  --body-color: #fff;
-}
+```bash
+hugo server --source=exampleSite
 ```
 
-Then, apply the theme by adding `data-theme="blue"` to the `<html>` element.
+## Multilingual and i18n
 
-### Customizing Navigation
+LoveIt supports the following languages:
 
-You can create a file `_data/navigation.yml` to configure links to some pages. For example,
+* English
+* Simplified Chinese
+* Traditional Chinese
+* French
+* Polish
+* Brazilian Portuguese
+* Italian
+* Spanish
+* German
+* Serbian
+* Russian
+* Romanian
+* Vietnamese
+* Arabic
+* Catalan
+* Thai
+* Telugu
+* Indonesian
+* Turkish
+* Korean
+* Hindi
+* [Contribute with a new language](https://github.com/dillonzq/LoveIt/pulls)
 
-```yml
-- title: Blog
-  url: /
-- title: About
-  url: /about/
-```
+[Languages Compatibility](https://hugoloveit.com/theme-documentation-basics/#language-compatibility)
 
-### Customizing Cover Image
+## [Roadmap](https://github.com/dillonzq/LoveIt/projects/1)
 
-You can set your own cover image by modifying the `cover_image` variable in `_config.yml`, and you can also set different cover images on different pages by setting the `cover_image` variable on each page.
+## Questions, ideas, bugs, pull requests
 
-If you discover that the contrast between the cover text color and the cover background color is not enough, you can also adjust these two variables:
-
-```yml
-cover_bg_color: rgb(40, 73, 77)
-cover_color: rgb(255, 255, 255)
-```
-
-### Customizing Social Links
-
-You can set your social links in `_data/social.yml`. You can custom titles, URLs, and icons (only support [Font Awesome](https://fontawesome.com/) currently), for example:
-
-```yml
-- title: Email
-  url: mailto://vszhub@gmail.com
-  icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
-- title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
-  icon: fab fa-github
-```
-
-### Enabling Posts Archive
-
-Not Pure Poole supports posts archive by date, categories, and tags. For enabling that, you should put some data like below into `_data/archive.yml`:
-
-```yml
-- type: dates
-  title: Dates
-  url: /dates/
-- type: categories
-  title: Categories
-  url: /categories/
-- type: tags
-  title: Tags
-  url: /tags/
-```
-
-After that, the navigation to these archive pages would be shown on the top of the homepage.
-
-Then, you can create a category archive page, and set the below parameters on that page:
-
-```yml
----
-layout: archive-taxonomies
-type: categories
----
-```
-
-Or a tag archive page:
-
-```yml
-layout: archive-taxonomies
-type: tags
-```
-
-Or archive by dates:
-
-```yml
-layout: archive-dates
-```
-
-### Enabling TOC
-
-If you want to show the TOC of a page on the right side, just set `toc: true` on that page.
-
-### Enabling MathJax
-
-If you want to write mathematics on a page, just set `math: true` on that page to enable MathJax.
-
-### Something More
-
-Just **hack** into the code and see what you can get.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `not-pure-poole.gemspec` accordingly.
+All feedback is welcome! Head over to the [issue tracker](https://github.com/dillonzq/LoveIt/issues).
 
 ## License
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+LoveIt is licensed under the **MIT** license. Check the [LICENSE file](https://github.com/dillonzq/LoveIt/blob/master/LICENSE) for details.
+
+## Special Thanks
+
+Thanks to the authors of following resources included in the theme:
+
+* [normalize.css](https://github.com/necolas/normalize.css)
+* [Font Awesome](https://fontawesome.com/)
+* [Simple Icons](https://github.com/simple-icons/simple-icons)
+* [Animate.css](https://daneden.github.io/animate.css/)
+* [autocomplete](https://github.com/algolia/autocomplete)
+* [Lunr.js](https://lunrjs.com/)
+* [algoliasearch](https://github.com/algolia/algoliasearch-client-javascript)
+* [lazysizes](https://github.com/aFarkas/lazysizes)
+* [object-fit-images](https://github.com/fregante/object-fit-images)
+* [Twemoji](https://github.com/twitter/twemoji)
+* [emoji-data](https://github.com/iamcal/emoji-data)
+* [lightGallery](https://github.com/sachinchoolur/lightgallery)
+* [clipboard.js](https://github.com/zenorocha/clipboard.js)
+* [Sharer.js](https://github.com/ellisonleao/sharer.js)
+* [TypeIt](https://typeitjs.com/)
+* [KaTeX](https://katex.org/)
+* [mermaid](https://github.com/mermaid-js/mermaid)
+* [ECharts](https://echarts.apache.org/)
+* [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js)
+* [APlayer](https://github.com/MoePlayer/APlayer)
+* [MetingJS](https://github.com/metowolf/MetingJS)
+* [Gitalk](https://github.com/gitalk/gitalk)
+* [Valine](https://valine.js.org/)
+* [cookieconsent](https://github.com/osano/cookieconsent)
+
+## Author
+
+[Dillon](https://dillonzq.com)
+
+## Sponsor
+
+If you enjoy the theme, please consider buying me a coffee ☕️.
+
+* [PayPal](https://paypal.me/dillonzq)
+* [Alipay](https://github.com/dillonzq/LoveIt/raw/master/images/Alipay.jpg)
+* [Wechat](https://github.com/dillonzq/LoveIt/raw/master/images/Wechat.jpg)
+
+Thanks! ❤️
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/dillonzq/LoveIt.svg)](https://starchart.cc/dillonzq/LoveIt)
