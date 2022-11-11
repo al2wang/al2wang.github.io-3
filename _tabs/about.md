@@ -1,21 +1,8 @@
 ---
-title: About
+# the default layout is 'page'
 icon: fas fa-info-circle
-order: 1
+order: 4
 ---
 
-# About me
-Hello! This is Dylan, a high school junior interested in
-- math,
-- coding,
-- physics, and
-- economics.
-
-I plan on putting some handouts and other projects are work on here.
-
-## Things I am/was involved in
-- [Math Advance](https://mathadvance.org/) and [MAST](https://mast.mathadvance.org/)
-- [NICE Contest](https://www.nicecontest.xyz/)
-- [Vibrant Learning](https://vibrantlearning.github.io/)
-- ASE Math Club
-- [Little MD](https://littlemeddegree.wixsite.com/medcamp)
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
