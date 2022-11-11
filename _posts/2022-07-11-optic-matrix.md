@@ -10,9 +10,34 @@ mermaid: true
 math: true
 ---
 
-# Heading (H1)
+## Intro: How is matrix related to optics?
 
-## Smaller heading (H2)
+After knowing some of the fundamentals of modern optics, you should have a rough understanding of geometric optics (and more advanced, polarized optics). However, traditional geometric optics is basically a set of imaging formula or special light mapping using geometric methods, the main point and main surface equivalent is also very tedious, in a bunch of lens imaging only one word: - I will introduce a powerful tool rarely mentioned in the general competition tutorial: matrix optics This article will introduce the content once and for all: matrix methods in geometric optics This article is based on the notes I made in reading the book Matrix Optics by Lu Yaxong Lu Baida. Part of the content will be directly excerpted from the book. Forgive me for the ugly picture qwq, I really don't know any good graphing software (I have a couple friends who are arguably \(TikZ\) god, but I don't feel like bothering them since they're extra busy at the time), I try to explain matrix optics clearly with as few pictures as possible.
+
+I'd like to start off by first introducing the expression of a beam of light in the \(\textbf{polar coordinate\):
+
+<blockquote style="border-left: 3px solid #ac95fc; color:#ac95fc; margin-bottom:2px">
+<b>Theorem</b> (Function rotation). Let $f$ be the function you want to rotate and $\theta$ be the angle counterclockwise from the $x$-axis you want to rotate it. Then the new function becomes
+
+$$\binom(r, \theta).$$
+</blockquote>
+
+
+
+
+
+
+
+
+Look at this example:
+<blockquote style="border-left: 3px solid #52a88e; color:#52a88e; margin-bottom:2px">
+<b>Example</b>. This is an example.
+</blockquote>
+
+A definition:
+<blockquote style="border-left: 3px solid #f79eb2; color:#f79eb2; margin-bottom:2px">
+<b>Definition</b> (Cube). A <i>cube</i> is a six-faced 3D object.
+</blockquote>
 
 ### Even smaller heading (H3)
 
