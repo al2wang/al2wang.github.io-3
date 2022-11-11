@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Optic Matrix in high-level Physics Olympiad
+title: Matrix Opticx in high-level physics olympiad
 author: Alex Wang
 date: 2022-07-11 22:18 +0800
 last_modified_at: 2020-11-10 16:07 +0800
