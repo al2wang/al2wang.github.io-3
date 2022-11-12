@@ -18,7 +18,13 @@ I'd like to start off by first introducing the expression of a beam of light in 
 
 <blockquote style="border-left: 3px solid #ac95fc; color:#ac95fc; margin-bottom:2px"> <b>Theorem</b> (Function rotation).
   
-Let \(f\) be the function you want to rotate and \(\theta\) be the angle counterclockwise from the \(x\)-axis you want to rotate it. Then the new function becomes $$\binom{r}{\theta}.$$
+Let \(f\) be the function you want to rotate and \(\theta\) be the angle counterclockwise from the \(x\)-axis you want to rotate it. Then the new function becomes
+$$
+\begin{pmatrix}
+r \\
+\theta
+\end{pmatrix}
+$$
 
 </blockquote>
 
