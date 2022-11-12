@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Matrix Opticx in high-level physics olympiad
-author: Alex Wang
+title: Matrix optics in high-level physics olympiad
+author: Alex
 date: 2022-07-11 22:18 +0800
-last_modified_at: 2020-11-10 16:07 +0800
-tags: [physics, contest]
+// last_modified_at: 2020-11-10 16:07 +0800
+tags: [physics, linear algebra, contest]
 toc: true
 mermaid: true
 math: true
