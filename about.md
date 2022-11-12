@@ -21,7 +21,7 @@ I was born in Shenzhen, a major sub-provincial metropolis and one of the special
 
 ![image](https://strathcona.epsb.ca/media/styleassets-schools/strathcona/Strathcona_1907_T4_logo.png)
 
-$$\textbf{SZMS} \and \textbf{Scona}\ \' 23$$
+$$\textbf{SZMS}\&\textbf{Scona}\ \' 23$$
 
 ## Interests
 
