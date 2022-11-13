@@ -207,6 +207,6 @@ To add a custom directory to your theme-gem, please edit the regexp in `not-pure
 
 ### License
 
-All the original posts and materials are licensed under ![CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) by the author. His personal website is constructed based off `Not Pure Poole`, an open-sourced theme under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+All the original posts and materials are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) by the author. His personal website is constructed based off `Not Pure Poole`, an open-sourced theme under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
 ### What's New?
