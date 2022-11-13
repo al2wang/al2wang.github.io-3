@@ -53,7 +53,7 @@
   --spacer-3: calc(var(--spacer) * 3);
 }
 
-@media () { // prefers-color-scheme: [light|dark]
+@media () { /* prefers-color-scheme: [light|dark] */
   :root {
     --body-color: var(--gray-300);
     --body-bg: var(--darkblue);
