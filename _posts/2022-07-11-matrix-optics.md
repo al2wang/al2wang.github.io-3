@@ -129,10 +129,11 @@ $$ \sum_{n=1}^\infty \frac1{n^2} = \frac{\pi^2}{6} $$
 > $$ x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}. $$
 
 ## Citation
-[1] http://home.ku.edu.tr/~generalphysics/Phys206/Handouts/Matrix%20Optics.pdf
-[2] 
 
-# Footnotes
+1. http://home.ku.edu.tr/~generalphysics/Phys206/Handouts/Matrix%20Optics.pdf
+2. https://www.sfu.ca/~gchapman/e894/e894l6j.pdf
+
+## Footnotes
 
 [^fn1]: The footnote source
 [^fn2]: The 2nd footnote source
