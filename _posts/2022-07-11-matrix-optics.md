@@ -9,8 +9,6 @@ mermaid: true
 math: true
 ---
 
-// last_modified_at: 2020-11-10 16:07 +0800
-
 ## Intro: How is matrix related to optics?
 
 After knowing some of the fundamentals of modern optics, you should have a rough understanding of geometric optics (and maybe, more advanced, polarized optics). However, the common, traditional methods for geometric optics are basically a set of imaging formulae or special light mapping using geometric methods, the main point and main surface equivalent is also very tedious, in a bunch of lens imaging only one word: I will introduce a powerful tool rarely mentioned in the general competition tutorial: matrix optics. This article will introduce the content once and for all: matrix methods in geometric optics This article is based on the notes I made in reading the book Matrix Optics by Lu Yaxong Lu Baida. Part of the content will be directly excerpted from the book. Please bear with me for the poor drawing (I have a couple friends who are arguably \\(\rm{Ti}\it{k}\rm{Z}\\) god, but I don't feel like bothering them since they're extra busy at the time)... I'll try to explain matrix optics clearly with as few pictures as possible.
@@ -129,6 +127,10 @@ $$ \sum_{n=1}^\infty \frac1{n^2} = \frac{\pi^2}{6} $$
 > **Theorem** (Quadratic formula). Let $a\neq 0$. Then the two solutions to $ax^2 + bx + c = 0$ are given by
 > 
 > $$ x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}. $$
+
+## Citation
+[1] http://home.ku.edu.tr/~generalphysics/Phys206/Handouts/Matrix%20Optics.pdf
+[2] 
 
 # Footnotes
 
