@@ -9,8 +9,9 @@ date: 2022-11-12 14:22 +0800
 
 --Coming soon--
 
-
 ### Scona Science Club
+- CaPhO training program: [info](https://drive.google.com/file/d/1AH7FoUzmGSLlscvGIZgawkLudTDU1cvE/view?usp=sharing)
+- 
 - My templates for editing notes for the club meeting:
   [Zh-CN](https://drive.google.com/file/d/1Jf2IVpPRgAAdE-0xMna7BcvSmR1GMnrC/view?usp=sharing) and [Eng-EN](https://drive.google.com/file/d/1z1bj_Wml3vuyGOp77JCL0CfOIhwm2aBY/view?usp=share_link) versions.
 - 
