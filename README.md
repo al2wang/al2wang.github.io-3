@@ -10,10 +10,6 @@
 
 -----
 
-See Not Pure Poole in action with [the demo site](https://vszhub.github.io/not-pure-poole/).
-
-![Screenshot](screenshot.png)
-
 ## Table of Contents <!-- omit in toc -->
 
 - [Features](#features)
@@ -207,6 +203,6 @@ To add a custom directory to your theme-gem, please edit the regexp in `not-pure
 
 ### License
 
-All the original posts and materials are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) by the author, Alex Guangyuan Wang. His personal website is constructed based off of `Not Pure Poole`, an open-sourced theme under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+All the original posts and materials are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) by the author, Alex Guangyuan Wang. His personal website is constructed based off of [`Not Pure Poole`](https://vszhub.github.io/not-pure-poole/), an open-sourced theme under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
 ### What's New?
