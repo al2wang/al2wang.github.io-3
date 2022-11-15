@@ -180,10 +180,10 @@ Or archive by dates:
 layout: archive-dates
 ```
 
-## Website info
+### Website info
 Made with Jekyll and [Not Pure Poole](https://vszhub.github.io/not-pure-poole/). Mostly everything in this website is written in Markdown.
 
-## Who are you and what is this?
+### Who are you and what is this?
 See [here](https://al2wang.github.io/about/).
 
 ### How can I contact you?
