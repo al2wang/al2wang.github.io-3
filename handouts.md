@@ -26,7 +26,7 @@ Coming soon
 ## Some Collections
 
 ### \\(\LaTeX\\) Tutorials
-- If you're new to \\(\TeX\\), have a first taste of [this tutorial and starter template files]([https://www.aplusphysics.com/about/LaTeXGuide/LaTeXGuide.pdf](https://www.aplusphysics.com/about/LaTeX.html))
+- If you're new to \\(\TeX\\), have a first taste of [this tutorial and starter template files](https://www.aplusphysics.com/about/LaTeX.html)
 - 
 
 ### Some fun templates
