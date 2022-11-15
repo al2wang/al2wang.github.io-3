@@ -19,7 +19,7 @@ I was born in Shenzhen, a major sub-provincial metropolis and one of the special
 
 ## School bio
 
-![image](https://strathcona.epsb.ca/media/styleassets-schools/strathcona/Strathcona_1907_T4_logo.png)
+// ![image](https://strathcona.epsb.ca/media/styleassets-schools/strathcona/Strathcona_1907_T4_logo.png)
 
 $$\textbf{SZMS}+\textbf{Scona}\ ' 23$$
 
@@ -34,36 +34,28 @@ $$\textbf{SZMS}+\textbf{Scona}\ ' 23$$
 
 ## Peer tutorings
 
-I do private tutoring online over Zoom/Tencent Meeting, in the following subjects. Please contact me for details if you’re interested.
+I do peer tutoring online over Zoom/Tencent Meeting, in the following subjects. Please contact me for details if you’re interested.
 
-### School Math
-
-- Pre-Calculus
-- AP Calculus AB/BC
-- AP Statistics
-- Vector Calculus
-- Linear Algebra
-
-### Competition Physics
-- CaPhO (CAP Prize Exam)
-- AuPhO (ASOP)
-- PUPC (Premier)
-- USAYPT
-
-### Computer Science
-
-- Intro to Informatics
-
-### Standardized Test
-
-- TOEFL (R/L)
+- School Math
+  - Pre-Calculus
+  - Calculus
+  - Vector Calculus
+  - Linear Algebra
+- Physics Contest
+  - CaPhO (CAP Prize Exam)
+  - AuPhO (ASOP)
+  - PUPC (Premier)
+  - USAYPT
+- Computer Science
+  - Intro to Informatics
+- Standardized Test
+  - TOEFL (R/L)
 
 ## Part of my qualifications
 
 ### Advance Placement
 
-- AP Calculus AB/BC: \\\(\bf{5}\\\)
-- AP Physics C MC/EM: \\\(\bf{5}\\\)
+\\(6 \*5 + 2 \* 4\\), AP Scholar with Distinction.
 
 ### TOEFL
 
@@ -86,7 +78,7 @@ I do private tutoring online over Zoom/Tencent Meeting, in the following subject
   - Global \\\(\bf{3^{\text{rd}}}\\\) place
   - Team Leader of 2022 SZMS school team
 
-### Student Clubs at SZMS
+### Student Clubs Leadership
 
 - Chief Senior of “Discovery Physics”
 - Core Staff of “SMSPhO & SMSYPT Initiative”
