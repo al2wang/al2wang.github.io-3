@@ -45,7 +45,7 @@ A definition:
 <b>Definition</b> (Cube). A <i>cube</i> is a six-faced 3D object.
   
 $$
-W=\int_{k<\Lambda}[D g][D A][D \psi][D \Phi] \exp \left\{i \int d ^ { 4 } x \sqrt { - g } \left[\frac{m_p^2}{2} R-\frac{1}{4} F_{\mu \nu}^a F^{a \mu \nu}+i \bar{\psi}^i \gamma^\mu D_\mu \psi^i+\left(\bar{\psi}_L^i V_{i j} \Phi \psi_R^j+\text { h.c. }\right)-\left|D_\mu \Phi\right|^2-V(\Phi)\right]\right\}
+  i(t)=e^{-\frac{r}{2 L} t}\left(c_1 e^{j \sqrt{\frac{1}{L C_{\mathrm{eq}}}-\frac{r^2}{4 L^2} t}}+c_2 e^{-j \sqrt{\frac{1}{L C_{\mathrm{eq}}}-\frac{r^2}{4 L^2} t}}\right)
 $$
                      
 </blockquote>
