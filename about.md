@@ -19,9 +19,7 @@ I was born in Shenzhen, a major sub-provincial metropolis and one of the special
 
 ## School bio
 
-// ![image](https://strathcona.epsb.ca/media/styleassets-schools/strathcona/Strathcona_1907_T4_logo.png)
-
-$$\textbf{SZMS}+\textbf{Scona}\ ' 23$$
+- $$\textbf{SZMS}+\textbf{Scona}\ ' 23$$
 
 ## Interests
 
@@ -55,7 +53,7 @@ I do peer tutoring online over Zoom/Tencent Meeting, in the following subjects. 
 
 ### Advance Placement
 
-\\(6 \* \bf{5} + 2\* \bf{4}\\), AP Scholar with Distinction.
+- \\(6 \* \bf{5} + 2\* \bf{4}\\), AP Scholar with Distinction.
 
 ### TOEFL
 
