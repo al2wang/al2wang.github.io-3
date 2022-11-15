@@ -19,7 +19,7 @@ I was born in Shenzhen, a major sub-provincial metropolis and one of the special
 
 ## School bio
 
-- $$\textbf{SZMS}+\textbf{Scona}\ ' 23$$
+$$\textbf{SZMS}+\textbf{Scona}\ ' 23$$
 
 ## Interests
 
