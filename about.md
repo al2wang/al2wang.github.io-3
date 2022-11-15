@@ -55,7 +55,7 @@ I do peer tutoring online over Zoom/Tencent Meeting, in the following subjects. 
 
 ### Advance Placement
 
-\\(6 \*5 + 2 \* 4\\), AP Scholar with Distinction.
+\\(6 \* \bf{5} + 2 \* \bf{4}\\), AP Scholar with Distinction.
 
 ### TOEFL
 
