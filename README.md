@@ -180,29 +180,19 @@ Or archive by dates:
 layout: archive-dates
 ```
 
-### Enabling TOC
 
-If you want to show the TOC of a page on the right side, just set `toc: true` on that page.
+## Website info
+Made with Jekyll and [`Not Pure Poole`](https://vszhub.github.io/not-pure-poole/). Mostly everything in this website is written in Markdown.
 
-### Enabling MathJax
+## Who are you and what is this?
+See [here](https://al2wang.github.io/about/).
 
-If you want to write mathematics on a page, just set `math: true` on that page to enable MathJax.
+### How can I contact you?
+Look at the bottom left corner of [my website](https://al2wang.github.io/).
 
-### Something More
-
-Just **hack** into the code and see what you can get.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `not-pure-poole.gemspec` accordingly.
+### Is this a new website?
+Yes. The old one can be found [here](https://github.com/al2wang/al2wang.github.io-2/). Just "hack" into the code and see what you can get.
 
 ### License
 
 All the original posts and materials are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) by the author, Alex Guangyuan Wang. His personal website is constructed based off of [`Not Pure Poole`](https://vszhub.github.io/not-pure-poole/), an open-sourced theme under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-### What's New?
