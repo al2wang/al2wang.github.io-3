@@ -26,7 +26,7 @@ Coming soon
   [Zh-CN](https://drive.google.com/file/d/1Jf2IVpPRgAAdE-0xMna7BcvSmR1GMnrC/view?usp=sharing) and [Eng-EN](https://drive.google.com/file/d/1z1bj_Wml3vuyGOp77JCL0CfOIhwm2aBY/view?usp=share_link) versions.
 - 
 
-## Some Collections
+## Notes Collection
 
 ### \\(\LaTeX\\) Tutorials
 - If you're new to \\(\TeX\\), have a first taste of [this tutorial and starter template files](https://www.aplusphysics.com/about/LaTeX.html)!
