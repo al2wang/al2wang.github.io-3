@@ -11,8 +11,8 @@ Coming soon
 
 ## My handouts
 
-### IPhO Team Canada Training
-- Year 2022 initiative [webpage](https://sites.google.com/view/ipho-team-can-training/home)
+### IPhO Team Canada Selection
+- Training camp [webpage](https://sites.google.com/view/ipho-team-can-training/home)
 
 ### Scona Science Club
 - Physics Olympiad training program: [Info document](https://drive.google.com/file/d/1AH7FoUzmGSLlscvGIZgawkLudTDU1cvE/view?usp=sharing)
