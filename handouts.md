@@ -11,11 +11,32 @@ Coming soon
 
 ## My handouts
 
-### IPhO Team Canada Selection
+### Notes on specific olympiad topics
+
+- Vector form of Lorentz transform and Sagnac effect
+- The matrix form of the Lorentz transform and the four-dimensional vector
+- Four-dimensional angular momentum and four-dimensional moment
+- Min space-time map
+- Thomas spins
+- The problem of acceleration under special relativity
+- Lagrange mechanics
+- Immersion (adiabatic) invariants
+- Variable refractive index optics and Hamiltonian optics (called Newtonian optics in some places)
+- Matrix optics and optical arrays and lens waveguides
+- Treatment of Nonlinear Mechanics – Take the stability problem of inverted pendulum as an example
+- Polarization energy
+- Conformal transformation
+- Spherically symmetric solution of Laplace's equation
+- Relativistic transformations of electromagnetic fields
+- Diffusion, heat conduction and current
+- Multibody collision problem
+- Bibliographic recommendations
+
+### IPhO Team Canada selection program
 - Training camp [webpage](https://sites.google.com/view/ipho-team-can-training/home)
 
 ### Scona Science Club
-- Physics Olympiad training program: [Info document](https://drive.google.com/file/d/1AH7FoUzmGSLlscvGIZgawkLudTDU1cvE/view?usp=sharing)
+- Physics Olympiad tutoring: [Info document](https://drive.google.com/file/d/1AH7FoUzmGSLlscvGIZgawkLudTDU1cvE/view?usp=sharing)
   1. Who
   2. What
   3. When
