@@ -3,7 +3,7 @@ Here are some cool projects that I'm working on recently, you can check them out
 
 ## Physics Olympiad Wiki 📚
 
-<div align=center><img src="https://user-images.githubusercontent.com/104330029/202924045-2643cf74-23d6-4b22-b9ad-baeb708deb76.png"></div>
+<div align=center><img src="https://user-images.githubusercontent.com/104330029/202926394-c9073028-623c-4436-b4a6-d9318c6a6fd3.png"></div>
 
 - A superb collection of great olympiad-level books (most of them are in chinese, though), tutorials, and practice/real contest problems
 - Categories:
