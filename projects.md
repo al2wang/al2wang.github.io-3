@@ -18,3 +18,8 @@ Here are some cool projects that I'm working on recently, you can check them out
 
 - [AP Physics C Mech/E&M past exams](https://apc-practice.vercel.app/), question resources scraped from College Board.
 - 
+
+## License
+
+![image](https://user-images.githubusercontent.com/104330029/202926970-7893f4c8-6f4a-4044-ab36-7c7005f46716.png)
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. Copyright © Alex G Wang. All Rights Reserved.
