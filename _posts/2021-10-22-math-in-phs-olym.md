@@ -1,4 +1,13 @@
-
+---
+layout: post
+title: Math in Physics Olympiad
+author: Alex
+date: 2022-07-11 22:18 +0800
+tags: [physics, linear algebra, contest]
+toc: true
+mermaid: true
+math: true
+---
 
 Although in the competition syllabus, the basics of mathematics are covered by "Preliminary Application of Calculus" , we need to use far more mathematical skills than calculus in actual problem solving.
 
