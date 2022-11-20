@@ -10,3 +10,9 @@ Here are some cool projects that I'm working on recently, you can check them out
   - [Online Free Tutorials](https://tutorial.cpho.wiki/)
 
 <div align=center><img src="https://user-images.githubusercontent.com/104330029/202877878-e232ca1f-4746-48e4-bd5a-461c037ace7e.png"></div>
+
+
+## Advance Placement Practice 🖊
+
+- AP Physics C Mech/E&M past exam [problem bank](https://apc-practice.vercel.app/), scraped from College Board.
+- 
