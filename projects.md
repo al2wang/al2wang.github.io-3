@@ -14,5 +14,5 @@ Here are some cool projects that I'm working on recently, you can check them out
 
 ## Advance Placement Practice 🖊
 
-- AP Physics C Mech/E&M past exam [problem bank](https://apc-practice.vercel.app/), scraped from College Board.
+- [AP Physics C Mech/E&M past exams](https://apc-practice.vercel.app/), question resources scraped from College Board.
 - 
