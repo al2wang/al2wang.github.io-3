@@ -4,7 +4,6 @@ title: Reflection on my volunteer teaching
 tags: volunteer reflection
 math: true
 toc: true
-mermaid: ture
 date: 2022-08-27 22:35 +0800
 ---
 
