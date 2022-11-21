@@ -1,0 +1,122 @@
+#include<iostream>
+#include<cstdio>
+#include<cmath>
+#include<algorithm>
+
+using namespace std;
+
+int const maxn=105;     //  maximum ball number
+double const C=1.974;   //  physics constant, fixed
+double const Ms=0.73;   //  physics constant, fixed
+double const u0=2.55;   //  physics constant, fixed
+double const Lim=10;    //  maximum second number
+double const STEP=0.02;
+
+struct Ball
+{
+	double x;
+	double y;
+	double theta;
+	bool UTIL;
+	double potential;
+	double force_amt;
+	double force_dir;
+	void init(){
+		x=y=theta=0;
+		potential=0;
+		force_amt=0;
+		force_dir=0;
+		UTIL=true;
+		return;
+	}
+	double Potential(){
+		return potential;
+	}
+	double Force_amt(){
+		return force_amt;
+	}
+	double Force_dir(){
+		return force_dir;
+	}
+};
+struct System   //  using Ball
+{
+	Ball ball[maxn];
+	double T;
+	double Pote_Energy;
+	void init(){
+		T=0;
+		Pote_Energy=0x3f3f3f3f;
+	}
+	double Potential(){
+		double ret=0.0;
+		for(int i=0;i<maxn;i++)
+			if(ball[i].UTIL) ret+=ball[i].Potential();
+		return ret;
+	}
+	void getForce(Ball &A, Ball &B)
+	{
+		double force=u0*Ms/3*pow((A.x-B.x)*(A.x-B.x)+(A.y-B.y)*(A.y-B.y),1.5);
+		A.theta+=atan((A.x-B.x)/(A.y-B.y)); A.theta=A.theta<=2*3.142?A.theta:2*3.142-A.theta;
+		B.theta-=atan((A.x-B.x)/(A.y-B.y)); B.theta=B.theta<=2*3.142?B.theta:2*3.142-B.theta;
+		A.force_dir=atan((A.x-B.x)/(A.y-B.y));;
+		B.force_dir=atan((A.x-B.x)/(A.y-B.y));;
+		A.force_amt=force;
+		B.force_amt=force;
+		return;
+	}
+	void getPotential(Ball &A, Ball &B)
+	{
+		double sav1=C/pow(((A.x-B.x)*(A.x-B.x)+(A.y-B.y)*(A.y-B.y)),3);
+		double sav2=(A.x*B.x)+(A.y*B.y)-3*((A.x*(A.x-B.x)+A.y*(A.y-B.y))+(B.x*(A.x-B.x)+B.y*(B.x-B.y)))/pow((A.x-B.x)*(A.x-B.x)+(B.x-B.y)*(B.x-B.y),2);
+		A.potential+=sav1*sav2;
+		return;
+	}
+	bool Judge()
+	{
+		return Pote_Energy>Potential();
+	}
+	void Refresh()
+	{
+		int n=0;
+		for(n=0;n<maxn;n++)
+			if(!ball[n].UTIL) break;
+		for(int i=0;i<n;i++)
+			for(int j=i;j<n;j++)
+				{
+					getForce(ball[i],ball[j]);
+				}
+		for(int i=0;i<n;i++)
+			for(int j=i;j<n;j++)
+				{
+					getPotential(ball[i],ball[j]);
+				}
+		T+=STEP;
+		if(Judge()) Pote_Energy=Potential();
+	}
+	void Run()
+	{
+		while(T<=Lim)
+		{
+			Refresh();
+			for(int i=0;i<maxn;i++)
+			{
+				if(ball[i].x==0) break;
+				cout<<ball[i].x<<' '<<ball[i].y<<' '<<ball[i].theta<<' '<<T<<endl;
+			}
+		}
+	}
+}System;
+
+int main()
+{
+	int n;
+	cin>>n;
+	for(int i=0;i<n;i++) System.ball[i].init();
+	for(int i=0;i<n;i++) 
+	{
+		cin>>System.ball[i].x>>System.ball[i].y>>System.ball[i].theta;
+	}
+	System.Run();
+	return 0;
+}
