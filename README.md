@@ -1,4 +1,4 @@
-# [`AL2WANG's Blog`](https://github.com/al2wang/al2wang.github.io/) <!-- omit in toc -->
+# [`AL2WANG's Blog`](https://al2wang.github.io/about/) <!-- omit in toc -->
 
 <a href="https://jekyll-themes.com">
   <img src="https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg" height="20" alt="Jekyll Themes Shield" >
