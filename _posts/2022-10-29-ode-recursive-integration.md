@@ -11,21 +11,24 @@ excerpt: 'By recursively integrating according to $x_{n+1}\\!\left(t\right):=\in
 from $x_0\\!\left(t_0\right):=C$,
 we can get the solution of the ODE $x''\\!\left(t\right)=f\\!\left(x\\!\left(t\right),t\right)$
 with initial conditions $x\\!\left(t_0\right)=C$ as the limit of the sequence of functions.'
+math : true
+toc : true
 ---
 
 # The method
 
 Suppose we have an ODE (with initial conditions)
 
-$$\begin{equation}
+$$
+\begin{equation}
 x'\!\left(t\right)=f\!\left(x\!\left(t\right),t\right),
 \quad x\!\left(t_0\right)=C,
 \label{eq: ode}
-\end{equation}$$
+\end{equation}
+$$
 
-where $x$ is the unknown function,
-and $f$ is Lipschitz continuous in its first argument and continuous in its second argument.
-By Picard--Lindelöf theorem, we can seek the unique solution within $t\in\left\[t_0-\varepsilon,t_0+\varepsilon\right\]$.
+where \\(x\\) is the unknown function, and \\(f\\) is Lipschitz continuous in its first argument and continuous in its second argument.
+By Picard--Lindelöf theorem, we can seek the unique solution within \\(t\in\left\[t_0-\varepsilon,t_0+\varepsilon\right\].\\)
 
 Here, I propose the following method:
 we can write out a sequence of functions defined by
