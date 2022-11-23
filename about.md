@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: It's Alex :D
 math: true
 toc: true
 date: 2022-07-01 13:33 +0800
@@ -9,11 +9,9 @@ date: 2022-07-01 13:33 +0800
 “Logic will get you from A to B. Imagination will take you everywhere.” <cite>  —— Albert Einstein </cite>
 {: .message }
 
----
-
 ## A brief profile
 
-Hi there! I’m Alex G. Wang, a passionate high school student exploring the realm of science, maths, and programming.
+Hey there! I’m Alex G. Y. Wang, a passionate high school student exploring the realm of science, maths, and programming.
 
 I was born in Shenzhen, a major sub-provincial metropolis and one of the special economic zones of China. Currently, I’m schooling at Strathcona HS in Edmonton, AB.
 
@@ -63,7 +61,7 @@ I do peer tutoring online over Zoom/Tencent Meeting, in the following subjects. 
 
 - CaPhO 2022
   - Gold medalist
-  - National Final qualifier
+  - IPhO Team Canada selection camp qualifier
   - Canadian \\\(\bf{12^{\text{th}}}\\\) place; Alberta \\\(\bf{2^{\text{nd}}}\\\) place
 - AuPhO 2021
   - Gold medalist
