@@ -27,10 +27,10 @@ You might've already seen something similar to the following table, which can be
 $$
   \begin{array}{llll}
 \textbf { Reaction } & \textbf { Order } & \textbf { Differential Form } & \textbf { Integrated Form } \\
-\mathrm{~A} \rightarrow \mathrm{P} & \text { Zeroth order } & \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k & {[\mathrm{A}]=[\mathrm{A}]_0-k t} \\
-\mathrm{~A} \rightarrow \mathrm{P} & \text { First order } & \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k[\mathrm{A}] & \ln [\mathrm{A}]=\ln [\mathrm{A}]_0-k t \\
-\mathrm{~A}+\mathrm{A} \rightarrow \mathrm{P} & \text { Second order } & \frac{1}{2} \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k[\mathrm{A}]^2 & \frac{1}{[\mathrm{A}]}=\frac{1}{[\mathrm{A}]_0}+2 k t \\
-\mathrm{~A}+\mathrm{B} \rightarrow \mathrm{P} & \text { Second order } & \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k[\mathrm{A}][\mathrm{B}] & k t=\frac{1}{[\mathrm{B}]_0-[\mathrm{A}]_0} \ln \frac{[\mathrm{B}]_0[\mathrm{A}]}{[\mathrm{A}]_0[\mathrm{B}]}
+\mathrm{~A} \rightarrow \mathrm{P} & \text { Zeroth } & \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k & {[\mathrm{A}]=[\mathrm{A}]_0-k t} \\
+\mathrm{~A} \rightarrow \mathrm{P} & \text { First } & \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k[\mathrm{A}] & \ln [\mathrm{A}]=\ln [\mathrm{A}]_0-k t \\
+\mathrm{~A}+\mathrm{A} \rightarrow \mathrm{P} & \text { Second } & \frac{1}{2} \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k[\mathrm{A}]^2 & \frac{1}{[\mathrm{A}]}=\frac{1}{[\mathrm{A}]_0}+2 k t \\
+\mathrm{~A}+\mathrm{B} \rightarrow \mathrm{P} & \text { Second } & \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k[\mathrm{A}][\mathrm{B}] & k t=\frac{1}{[\mathrm{B}]_0-[\mathrm{A}]_0} \ln \frac{[\mathrm{B}]_0[\mathrm{A}]}{[\mathrm{A}]_0[\mathrm{B}]}
   \end{array}
 $$
 
