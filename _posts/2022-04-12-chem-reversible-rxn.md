@@ -41,7 +41,7 @@ $$
     \sum_ka_kX_k\rightleftharpoons\sum_kb_kY_k,
 $$
 
-where \\(X_k\\) and \\(Y_k\\) are reactants, and \\(a_k\\) and \\(b_k\\) are stoichiometries. Don't panick! This is just a more concise representation without putting up an infinite series of chemical agents...
+where \\(X_k\\) and \\(Y_k\\) are reactants, and \\(a_k\\) and \\(b_k\\) are stoichiometries. Don't panick! This is just a more concise representation without putting up an infinite series of chemical reagents...
 
 As it is in the previous table, we're using square brackets to denote concentrations. Our goal is to find \\(\left\[X_k\right]\\) and \\(\left\[Y_k\right]\\) as functions with respect to time \\(t\\).
 
