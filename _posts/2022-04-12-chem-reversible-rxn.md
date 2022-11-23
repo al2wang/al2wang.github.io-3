@@ -16,13 +16,13 @@ math : true
 toc : true
 ---
 
-# Introduction
+## Introduction
 
 As we have our introduction to stoichiometry lessons in AP Chemistry, we get to know for the first time that the story of "stoichiometry" is basically the process of pinpointing chemical reactions, comparing products and reactants, and extracting quantitative information using the laws of conservation of mass and energy. But when one embarks on a quantitative chemistry journey, there's surely more to find out!
 
 Today, I'm going to help you find out the profound secret behind reversible reactions in stoichiometry. This also appears in olympiad-level physics contest topics, such as energetics and thermodynamics.
 
-You might've already been familiar with the following equations (I'd admit it looks rather daunting at first... zoom the webpage if it's out of the margin edge):
+You might've already seen something similar to the following table, which can be categorized into equations from zeroth order to second order reactions (I'd admit it looks rather daunting at first... zoom the webpage if it's out of the margin edge):
 
 $$
   \begin{array}{llll}
@@ -34,7 +34,9 @@ $$
   \end{array}
 $$
 
-## Reversible elementary reaction
+What if, though, there are more than three reactants or products? Will the order of the reactions change accordingly?
+
+## Reversible reaction
 
 A reversible elementary reaction takes place inside a closed, highly thermally conductive container of constant volume, whose reactants are all gases, and the reaction equation is
 $$
@@ -46,7 +48,7 @@ Use square brackets to denote concentrations.
 Our goal is to find $\left\[X_k\right]$ and $\left\[Y_k\right]$
 as functions with respect to time $t$.
 
-# The approach
+## The approach
 
 It is easy to write out the rate equations
 
