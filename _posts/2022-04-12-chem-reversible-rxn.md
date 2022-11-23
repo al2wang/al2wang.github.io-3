@@ -1,10 +1,11 @@
 ---
-title: From AP to olympiad—reversible reactions
+title: Stoichiometry—from AP to olympiad
 date: 2022-10-29 21:11 +0800
 categories:
 - math
+- chem
 tags:
-- ode
+- differential equation
 - calculus
 layout: post
 excerpt: 'By recursively integrating according to $x_{n+1}\\!\left(t\right):=\int_{t_0}^tf\\!\left(x_n\\!\left(s\right),s\right)\,\mathrm ds+C$
@@ -16,6 +17,23 @@ toc : true
 ---
 
 # Introduction
+
+As we have our introduction to stoichiometry lessons in AP Chemistry, we get to know the first time that the story of "stoichiometry" is basically the process of pinpointing chemical reactions, comparing products and reactants, and extracting quantitative information using the laws of conservation of mass and energy. But when one embarks on a quantitative chemistry journey, there's surely more to find out!
+
+Today, I'm going to help you find out the profound secret behind reversible reactions in stoichiometry. This also appears in olympiad-level physics contest topics, such as thermodynamics.
+
+You might've already been familiar with the following equation table (I'd admit it looks rather daunting at first...):
+$$
+\begin{array}{llll}
+\text { Reaction } & \text { Order } & \text { Differential Form } & \text { Integrated Form } \\
+\mathrm{A} \rightarrow \mathrm{P} & \text { Zeroth order } & \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k & {[\mathrm{~A}]=[\mathrm{A}]_0-k t} \\
+\mathrm{~A} \rightarrow \mathrm{P} & \text { First order } & \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k[\mathrm{~A}] & \ln [\mathrm{A}]=\ln [\mathrm{A}]_0-k t \\
+\mathrm{~A}+\mathrm{A} \rightarrow \mathrm{P} & \text { Second order } & \frac{1}{2} \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k[\mathrm{~A}]^2 & \frac{1}{[\mathrm{~A}]}=\frac{1}{[\mathrm{~A}]_0}+2 k t \\
+\mathrm{~A}+\mathrm{B} \rightarrow \mathrm{P} & \text { Second order } & \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k[\mathrm{~A}][\mathrm{B}] & k t=\frac{1}{[\mathrm{~B}]_0-[\mathrm{A}]_0} \ln \frac{[\mathrm{B}]_0[\mathrm{~A}]}{[\mathrm{A}]_0[\mathrm{~B}]}
+\end{array}
+$$
+
+## Reversible elementary reaction
 
 A reversible elementary reaction takes place inside a closed, highly thermally conductive container of constant volume, whose reactants are all gases, and the reaction equation is
 $$
