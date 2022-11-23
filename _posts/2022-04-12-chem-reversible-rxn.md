@@ -39,9 +39,11 @@ What if, though, there are more than three reactants or products? Will the order
 ## Reversible reaction
 
 A reversible elementary reaction takes place inside a closed, highly thermally conductive container of constant volume, whose reactants are all gases, and the reaction equation is
+
 $$
     \sum_ka_kX_k\rightleftharpoons\sum_kb_kY_k,
 $$
+
 where \\(X_k\\) and \\(Y_k\\) are reactants, and \\(a_k\\) and \\(b_k\\) are stoichiometries.
 
 Use square brackets to denote concentrations.
