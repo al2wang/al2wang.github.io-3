@@ -6,10 +6,9 @@ toc: true
 date: 2022-07-01 13:33 +0800
 ---
 
-![image](https://user-images.githubusercontent.com/104330029/203614859-ce58ec88-dff7-470f-8901-f4aa619940b7.png)
+![203614859-ce58ec88-dff7-470f-8901-f4aa619940b7](https://user-images.githubusercontent.com/104330029/203616184-ca07ca55-bce7-45ac-933f-deb1d705502e.png)
 
-“Logic will get you from A to B. Imagination will take you everywhere.”
-<cite>  —— Albert Einstein </cite>
+“Logic will get you from A to B; Imagination will take you everywhere.” <cite>  —— Albert Einstein </cite>
 {: .message }
 
 ## A brief profile
