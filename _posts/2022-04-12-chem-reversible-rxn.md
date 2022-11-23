@@ -13,11 +13,11 @@ math : true
 toc : true
 ---
 
-## Introduction
+## Intro
 
 As we have our introduction to stoichiometry lessons in AP Chemistry, we get to know for the first time that the story of "stoichiometry" is basically the process of pinpointing chemical reactions, comparing products and reactants, and extracting quantitative information using the laws of conservation of mass and energy. But when one embarks on a quantitative chemistry journey, there's surely more to find out!
 
-Today, I'm going to help you find out the profound secret behind reversible reactions in stoichiometry. This also appears in olympiad-level physics contest topics, such as energetics and thermodynamics.
+Today, I'm going to help you find out the profound secrets behind reversible reactions in stoichiometry. This also appears in olympiad-level physics contest topics, such as energetics and thermodynamics.
 
 You might've already seen something similar to the following table, which can be categorized into kinematic equations from zeroth order to second order reactions (I'd admit it looks rather daunting at first...):
 
@@ -31,21 +31,19 @@ $$
   \end{array}
 $$
 
-What if, though, there are more than three reactants or products? Will the order of the reactions change accordingly?
+What if, though, there are more than two reactants and products in such "\\(\rightleftharpoons\\)" reactions? Will the order of the reactions change accordingly?
 
 ## Reversible reaction
 
-A reversible elementary reaction takes place inside a closed, highly thermally conductive container of constant volume, whose reactants are all gases, and the reaction equation is
+The formal definition of this type of chem reaction is taking effect: a reversible elementary reaction generally takes place inside a closed, highly thermally conductive container of constant volume, whose reactants are all gases, and the reaction equation is
 
 $$
     \sum_ka_kX_k\rightleftharpoons\sum_kb_kY_k,
 $$
 
-where \\(X_k\\) and \\(Y_k\\) are reactants, and \\(a_k\\) and \\(b_k\\) are stoichiometries.
+where \\(X_k\\) and \\(Y_k\\) are reactants, and \\(a_k\\) and \\(b_k\\) are stoichiometries. Don't panick! This is just a more concise representation without putting up an infinite series of chemical agents...
 
-Use square brackets to denote concentrations.
-Our goal is to find $\left\[X_k\right]$ and $\left\[Y_k\right]$
-as functions with respect to time $t$.
+As it is in the previous table, we're using square brackets to denote concentrations. Our goal is to find \\(\left\[X_k\right]\\) and \\(\left\[Y_k\right]\\) as functions with respect to time \\(t\\).
 
 ## The approach
 
@@ -166,7 +164,7 @@ $$
 
 as the answer.
 
-# Properties of $F$
+## Properties of \\(F\\)
 
 As we all know, here exists a state where the system is in
 chemical equilibrium.
