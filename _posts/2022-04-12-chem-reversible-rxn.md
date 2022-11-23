@@ -18,11 +18,11 @@ toc : true
 
 # Introduction
 
-As we have our introduction to stoichiometry lessons in AP Chemistry, we get to know the first time that the story of "stoichiometry" is basically the process of pinpointing chemical reactions, comparing products and reactants, and extracting quantitative information using the laws of conservation of mass and energy. But when one embarks on a quantitative chemistry journey, there's surely more to find out!
+As we have our introduction to stoichiometry lessons in AP Chemistry, we get to know for the first time that the story of "stoichiometry" is basically the process of pinpointing chemical reactions, comparing products and reactants, and extracting quantitative information using the laws of conservation of mass and energy. But when one embarks on a quantitative chemistry journey, there's surely more to find out!
 
-Today, I'm going to help you find out the profound secret behind reversible reactions in stoichiometry. This also appears in olympiad-level physics contest topics, such as thermodynamics.
+Today, I'm going to help you find out the profound secret behind reversible reactions in stoichiometry. This also appears in olympiad-level physics contest topics, such as energetics and thermodynamics.
 
-You might've already been familiar with the following equation table (I'd admit it looks rather daunting at first...):
+You might've already been familiar with the following equations (I'd admit it looks rather daunting at first... zoom the webpage if it's out of the margin edge):
 
 $$
   \begin{array}{llll}
