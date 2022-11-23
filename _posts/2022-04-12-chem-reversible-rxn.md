@@ -22,7 +22,7 @@ As we have our introduction to stoichiometry lessons in AP Chemistry, we get to 
 
 Today, I'm going to help you find out the profound secret behind reversible reactions in stoichiometry. This also appears in olympiad-level physics contest topics, such as energetics and thermodynamics.
 
-You might've already seen something similar to the following table, which can be categorized into kinematic equations from zeroth order to second order reactions (I'd admit it looks rather daunting at first... zoom the webpage if it's out of the margin edge):
+You might've already seen something similar to the following table, which can be categorized into kinematic equations from zeroth order to second order reactions (I'd admit it looks rather daunting at first...):
 
 $$
   \begin{array}{llll}
@@ -33,6 +33,8 @@ $$
 \mathrm{~A}+\mathrm{B} \rightarrow \mathrm{P} & \text { Second } & \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k[\mathrm{A}][\mathrm{B}] & k t=\frac{1}{[\mathrm{B}]_0-[\mathrm{A}]_0} \ln \frac{[\mathrm{B}]_0[\mathrm{A}]}{[\mathrm{A}]_0[\mathrm{B}]}
   \end{array}
 $$
+
+: Zoom the webpage if it's out of the margin edge.
 
 What if, though, there are more than three reactants or products? Will the order of the reactions change accordingly?
 
