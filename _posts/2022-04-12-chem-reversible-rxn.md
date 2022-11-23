@@ -1,3 +1,4 @@
+/*
 ---
 title: From AP to olympiad: reversible reactions
 date: 2022-04-12 10:01 +0800
@@ -7,6 +8,24 @@ layout: post
 excerpt: 'A reversible elementary reaction takes place inside a closed, highly thermally conductive container of constant volume, whose reactants are all gases. Given the reaction equations and the reaction rate constants, a natural question to ask is how the concentration of each gas changes w.r.t. time. In this article, I will answer this question by proposing a general approach to solve it.'
 math: true
 toc: true
+---
+*/
+
+---
+title: Solving ODE by recursive integration
+date: 2022-10-29 21:11 +0800
+categories:
+- math
+tags:
+- ode
+- calculus
+layout: post
+excerpt: 'By recursively integrating according to $x_{n+1}\\!\left(t\right):=\int_{t_0}^tf\\!\left(x_n\\!\left(s\right),s\right)\,\mathrm ds+C$
+from $x_0\\!\left(t_0\right):=C$,
+we can get the solution of the ODE $x''\\!\left(t\right)=f\\!\left(x\\!\left(t\right),t\right)$
+with initial conditions $x\\!\left(t_0\right)=C$ as the limit of the sequence of functions.'
+math : true
+toc : true
 ---
 
 # Introduction
