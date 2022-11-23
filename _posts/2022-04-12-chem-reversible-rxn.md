@@ -19,8 +19,7 @@ In this article, I will answer this question by proposing a general approach to 
 
 # Introduction
 
-A reversible elementary reaction takes place inside a closed, highly thermally conductive container of constant volume,
-whose reactants are all gases, and the reaction equation is
+A reversible elementary reaction takes place inside a closed, highly thermally conductive container of constant volume, whose reactants are all gases, and the reaction equation is
 $$
     \sum_ka_kX_k\rightleftharpoons\sum_kb_kY_k,
 $$
@@ -44,7 +43,6 @@ $$
         b_j\left(\mu_X\prod_k\left[X_k\right]^{a_k}-
         \mu_Y\prod_k\left[Y_k\right]^{b_k}\right),
 \end{split}
-    \label{rate_equations}
 \end{equation}
 $$
 
