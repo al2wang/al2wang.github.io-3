@@ -1,5 +1,5 @@
 ---
-title: Stoichiometry—from AP to olympiad
+title: Dive deep into stoichiometry
 date: 2022-10-29 21:11 +0800
 categories:
 - math
@@ -8,10 +8,7 @@ tags:
 - differential equation
 - calculus
 layout: post
-excerpt: 'By recursively integrating according to $x_{n+1}\\!\left(t\right):=\int_{t_0}^tf\\!\left(x_n\\!\left(s\right),s\right)\,\mathrm ds+C$
-from $x_0\\!\left(t_0\right):=C$,
-we can get the solution of the ODE $x''\\!\left(t\right)=f\\!\left(x\\!\left(t\right),t\right)$
-with initial conditions $x\\!\left(t_0\right)=C$ as the limit of the sequence of functions.'
+excerpt: 'From AP Chem to Olympiad.'
 math : true
 toc : true
 ---
@@ -33,8 +30,6 @@ $$
 \mathrm{~A}+\mathrm{B} \rightarrow \mathrm{P} & \text { Second } & \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k[\mathrm{A}][\mathrm{B}] & k t=\frac{1}{[\mathrm{B}]_0-[\mathrm{A}]_0} \ln \frac{[\mathrm{B}]_0[\mathrm{A}]}{[\mathrm{A}]_0[\mathrm{B}]}
   \end{array}
 $$
-
-: Zoom the webpage if it's out of the margin edge.
 
 What if, though, there are more than three reactants or products? Will the order of the reactions change accordingly?
 
