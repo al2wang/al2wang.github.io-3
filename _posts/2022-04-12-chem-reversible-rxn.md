@@ -22,7 +22,7 @@ As we have our introduction to stoichiometry lessons in AP Chemistry, we get to 
 
 Today, I'm going to help you find out the profound secret behind reversible reactions in stoichiometry. This also appears in olympiad-level physics contest topics, such as energetics and thermodynamics.
 
-You might've already seen something similar to the following table, which can be categorized into equations from zeroth order to second order reactions (I'd admit it looks rather daunting at first... zoom the webpage if it's out of the margin edge):
+You might've already seen something similar to the following table, which can be categorized into kinematic equations from zeroth order to second order reactions (I'd admit it looks rather daunting at first... zoom the webpage if it's out of the margin edge):
 
 $$
   \begin{array}{llll}
