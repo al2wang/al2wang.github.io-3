@@ -14,6 +14,7 @@ math : true
 toc : true
 ---
 
+
 # Introduction
 
 A reversible elementary reaction takes place inside a closed, highly thermally conductive container of constant volume, whose reactants are all gases, and the reaction equation is
