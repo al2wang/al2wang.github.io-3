@@ -1,6 +1,6 @@
 ---
 title: From AP to olympiad: reversible reactions
-date: 2022-04-12 10:00:01 +0800
+date: 2022-04-12 10:01 +0800
 categories:
 - chemistry
 tags:
