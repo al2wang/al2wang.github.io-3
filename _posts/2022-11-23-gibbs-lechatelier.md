@@ -40,7 +40,7 @@ Under chemical equilibrium conditions, \\(A=0\\). And thus,
 
 $$ \left(\frac{\partial^2G}{\partial T\partial\xi}\right)_p=-\frac{1}{T}\left(\frac{\partial H}{\partial\xi}\right)_{T,p}. $$
 
-On the other hand, $$ \left(\frac{\partial^2G}{\partial\xi\partial T}\right)_p=-\left(\frac{\partial A}{\partial T}\right)_{p,\xi}. $$
+On the other hand, $$\left(\frac{\partial^2G}{\partial\xi\partial T}\right)_ p = -\left(\frac{\partial A}{\partial T}\right)_{p,\xi}.$$
 
 Therefore,
 
