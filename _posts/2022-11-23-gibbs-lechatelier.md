@@ -1,6 +1,17 @@
-
-
-# Use thermodynamics to calculate equilibrium constant
+---
+title: Use thermodynamics to calculate equilibrium constant
+date: 2022-11-23 19:54 +0800
+categories:
+- math
+- chem
+tags:
+- chem
+- partial differential eqns
+layout: post
+excerpt: 'What the heck?!'
+math : true
+toc : true
+---
 
 First, we write Gibbs as a function of temperature \\(T\\), pressure \\(p\\), and extent of reaction \\(\xi\\) (a physical quantity used to describe a chemical process):
 $$
