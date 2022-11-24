@@ -110,17 +110,17 @@ $$\begin{align} \sum_i\mu_i\kappa_i &=RT\sum_i \kappa_i\ln\frac{p_i}{p^\ominus}+
 
 namely,
 
-$$\ln\prod_i\left(\frac{p_i}{p^\ominus}\right)^{\kappa_i}=-\frac{ \Delta G^\ominus}{RT}. $$
+$$ \boxed{\ln\prod_i\left(\frac{p_i}{p^\ominus}\right)^{\kappa_i}=-\frac{ \Delta G^\ominus}{RT}}. $$
 
 Consider the situation under the standard condition, where \\(p^\ominus = 1\\), then the partial pressure equilibrium constant \\(K_ p\\) that we often encounter in middle school AP Chem is
 
 $$ K_p=\prod_ i p_ i^{\kappa_ i}. $$
 
-Apparently, it has something to do with temperature as well. If we now bring in Dalton's Law of partial pressure, \\(p=\textstyle \sum p_i\\), we will be able write it out as well \\(p_i=n_i p/n\\).
+Apparently, it has something to do with concentration as well. If we now bring in Dalton's Law of partial pressure, \\(p=\textstyle \sum p_i\\), we will be able write it out as well \\(p_i=n_i p/n\\).
 
 Then, it can be rephrased as
 
-$$ K_c=\prod_i c_i^{\kappa_i}. $$
+$$ \boxed{K_c=\prod_i c_i^{\kappa_i}}. $$
 
 This exactly boils down to what we are familiar within AP Chemistry---the `Concentration Equilibrium Constant`.
 
