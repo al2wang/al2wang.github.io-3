@@ -15,19 +15,19 @@ toc : true
 
 ## Intro
 
-As we have our introduction to stoichiometry lessons in AP Chemistry, we get to know for the first time that the story of "stoichiometry" is basically the process of pinpointing chemical reactions, comparing products and reactants, and extracting quantitative information using the laws of conservation of mass and energy. But when one embarks on a quantitative chemistry journey, there's surely more to find out!
+As we have our [introduction to stoichiometry lessons](https://openstax.org/books/chemistry-2e/pages/12-4-integrated-rate-laws) in AP Chemistry, we get to know for the first time that the story of "stoichiometry" is basically the process of pinpointing chemical reactions, comparing products and reactants, and extracting quantitative information using the laws of conservation of mass and energy. But when one embarks on a quantitative chemistry journey, there's surely more to find out!
 
-Today, I'm going to help you find out the profound secrets behind reversible reactions in stoichiometry. This also appears in olympiad-level physics contest topics, such as energetics and thermodynamics.
+Today, let's take a gander at the profound secrets behind reversible reactions in stoichiometry. This also appears in olympiad-level physics contest topics, such as energetics and thermodynamics.
 
 You might've already seen something similar to the following table, which can be categorized into kinematic equations from zeroth order to second order reactions (I'd admit it looks rather daunting at first...):
 
 $$
   \begin{array}{llll}
 \textbf { Reaction } & \textbf { Order } & \textbf { Differential Form } & \textbf { Integrated Form } \\
-\mathrm{~A} \rightarrow \mathrm{P} & \text { Zeroth } & \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k & {[\mathrm{A}]=[\mathrm{A}]_0-k t} \\
-\mathrm{~A} \rightarrow \mathrm{P} & \text { First } & \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k[\mathrm{A}] & \ln [\mathrm{A}]=\ln [\mathrm{A}]_0-k t \\
-\mathrm{~A}+\mathrm{A} \rightarrow \mathrm{P} & \text { Second } & \frac{1}{2} \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k[\mathrm{A}]^2 & \frac{1}{[\mathrm{A}]}=\frac{1}{[\mathrm{A}]_0}+2 k t \\
-\mathrm{~A}+\mathrm{B} \rightarrow \mathrm{P} & \text { Second } & \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k[\mathrm{A}][\mathrm{B}] & k t=\frac{1}{[\mathrm{B}]_0-[\mathrm{A}]_0} \ln \frac{[\mathrm{B}]_0[\mathrm{A}]}{[\mathrm{A}]_0[\mathrm{B}]}
+\mathrm{~A} \rightleftharpoons \mathrm{P} & \text { Zeroth } & \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k & {[\mathrm{A}]=[\mathrm{A}]_0-k t} \\
+\mathrm{~A} \rightleftharpoons \mathrm{P} & \text { First } & \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k[\mathrm{A}] & \ln [\mathrm{A}]=\ln [\mathrm{A}]_0-k t \\
+\mathrm{~A}+\mathrm{A} \rightleftharpoons \mathrm{P} & \text { Second } & \frac{1}{2} \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k[\mathrm{A}]^2 & \frac{1}{[\mathrm{A}]}=\frac{1}{[\mathrm{A}]_0}+2 k t \\
+\mathrm{~A}+\mathrm{B} \rightleftharpoons \mathrm{P} & \text { Second } & \frac{\mathrm{d}[\mathrm{A}]}{\mathrm{d} t}=-k[\mathrm{A}][\mathrm{B}] & k t=\frac{1}{[\mathrm{B}]_0-[\mathrm{A}]_0} \ln \frac{[\mathrm{B}]_0[\mathrm{A}]}{[\mathrm{A}]_0[\mathrm{B}]}
   \end{array}
 $$
 
