@@ -2,6 +2,7 @@
 layout: post
 title: Reflection on my volunteer teaching
 tags: volunteer reflection
+excerpt: 'A personal Q&A in retrospect about what I learned in the volunteering teaching, and how I walked little kids through the basics of English reading and writing, motivating them by actively interacting with them through dialogues and ice-breaking activities in English.'
 math: true
 toc: true
 date: 2022-08-27 22:35 +0800
