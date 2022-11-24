@@ -15,9 +15,9 @@ math : true
 toc : true
 ---
 
-<div style="text-align: center;">  
-  ![image](https://user-images.githubusercontent.com/104330029/203699885-5770e993-7fd2-4b68-b7c2-5a2d364a4076.png)
-</div>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/104330029/203699885-5770e993-7fd2-4b68-b7c2-5a2d364a4076.png">
+</p>
 
 ## Intro
 
