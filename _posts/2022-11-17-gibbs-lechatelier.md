@@ -129,4 +129,4 @@ Since \\(\nu_i\mathrm  d\xi=\mathrm dn_i\\), there is
 
 $$ \left(\frac{\partial A}{\partial\xi}\right)_{T,p}=\nu_i\left(\frac{\partial A}{\partial n_i}\right)_{T,p},\qquad i=1,2,\dots$$
 
-Thus, when \\(\nu_i<0\\) (i.e. the positive reaction reduces reactant \\(i\\)), \\(\left(\frac{\partial A}{\partial\xi}\right)_ {T,p}>0\\) (i.e. increasing substance \\(i\\) causes \\(A>0\\), so that the reaction proceeds in a positive direction). \\(\qed .\\)
+Thus, when \\(\nu_i<0\\) (i.e. the positive reaction reduces reactant \\(i\\)), \\(\left(\frac{\partial A}{\partial\xi}\right)_ {T,p}>0\\) (i.e. increasing substance \\(i\\) causes \\(A>0\\), so that the reaction proceeds in a positive direction). \\(□.\\)
