@@ -80,7 +80,7 @@ Thus, when \\(\left(\frac{\partial H}{\partial\xi}\right)_ {T,p}>0\\) (i.e. posi
 
 First things first, we have Maxwell relations
 
-$$ \left(\frac{\partial^2G}{\partial p\partial\xi}\right)_ {T}=-\left(\frac{\partial A}{\partial p}\right)_ {T,\xi}=\left(\frac{\partial V}{\partial\xi}\right)_ {T,p}, \tag #$$
+$$ \left(\frac{\partial^2G}{\partial p\partial\xi}\right)_ {T}=-\left(\frac{\partial A}{\partial p}\right)_ {T,\xi}=\left(\frac{\partial V}{\partial\xi}\right)_ {T,p}, \tag ※$$
 
 and this allows
 
@@ -88,7 +88,7 @@ $$ \left(\frac{\partial\xi}{\partial p}\right)_{A,T}=-\frac{\left(\frac{\partial
 
 Thus, when \\(\left(\frac{\partial V}{\partial\xi}\right)_ {T,p}>0\\) (i.e. the forward reaction increases the volume), \\(\left(\frac{\partial\xi}{\partial p}\right)_ {A,T}<0\\) (i.e. pressurization will causes the inverse reaction to happen).
 
-From equation \\((#)\\) we can derive that
+From equation \\((※)\\) we can derive that
 
 $$\frac{\partial \mu_i}{\partial p}=\frac{\partial V}{\partial \xi_i}.$$
 
@@ -96,7 +96,7 @@ Put together with the equation of state \\(pV=nRT\\), there is
 
 $$\frac{\partial \mu_i}{\partial p}=\frac{RT}{p}.$$
 
-Then, we can integrate eqn. \\((#)\\) from the initial state \\(p^\ominus\\) to the equilibrium state \\(p_ i\\),
+Then, we can integrate eqn. \\((※)\\) from the initial state \\(p^\ominus\\) to the equilibrium state \\(p_ i\\),
 
 $$\Delta \mu_i = \mu_i - \mu_i^\ominus = \int^{p_i}_{p^\ominus}\frac{RT}{p}~\mathrm{d}p = RT\ln\frac{p_i}{p^\ominus}. $$
 
