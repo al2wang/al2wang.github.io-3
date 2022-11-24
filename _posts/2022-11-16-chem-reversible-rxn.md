@@ -4,9 +4,11 @@ date: 2022-11-16 07:11 +0800
 categories:
 - math
 - chem
+- physics
 tags:
 - differential equation
 - calculus
+- thermodynamics
 layout: post
 excerpt: 'From AP Chem to Olympiad.'
 math : true
