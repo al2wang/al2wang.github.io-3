@@ -1,4 +1,3 @@
-
 ---
 title: Use thermodynamics to calculate equilibrium constant
 date: 2022-11-23 19:54 +0800
