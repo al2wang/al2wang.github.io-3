@@ -102,7 +102,7 @@ $$\frac{\partial \mu_i}{\partial p}=\frac{RT}{p}.$$
 
 Then, we can integrate eqn. \\((※)\\) from the initial state \\(p^\ominus\\) to the equilibrium state \\(p_ i\\),
 
-$$\Delta \mu_i = \mu_i - \mu_i^\ominus = \int^{p_i}_{p^\ominus}\frac{RT}{p}~\mathrm{d}p = RT\ln\frac{p_i}{p^\ominus}. $$
+$$\Delta \mu_i = \mu_i - \mu_i^\ominus = \int^{p_i}_ {p^\ominus}\frac{RT}{p}~\mathrm{d}p = RT\ln\frac{p_i}{p^\ominus}. $$
 
 Substitution to this intricate integral will be
 
@@ -110,7 +110,7 @@ $$\begin{align} \sum_i\mu_i\kappa_i &=RT\sum_i \kappa_i\ln\frac{p_i}{p^\ominus}+
 
 namely,
 
-$$ \boxed{\ln\prod_i\left(\frac{p_i}{p^\ominus}\right)^{\kappa_i}=-\frac{ \Delta G^\ominus}{RT}}. $$
+$$ \boxed{\ln\prod_i\left(\frac{p_i}{p^\ominus}\right)^{\kappa_i}=-\frac{ \Delta G^\ominus}{RT}.\ } $$
 
 Consider the situation under the standard condition, where \\(p^\ominus = 1\\), then the partial pressure equilibrium constant \\(K_ p\\) that we often encounter in middle school AP Chem is
 
@@ -120,7 +120,7 @@ Apparently, it has something to do with concentration as well. If we now bring i
 
 Then, it can be rephrased as
 
-$$ \boxed{K_c=\prod_i c_i^{\kappa_i}}. $$
+$$ \boxed{K_c=\prod_i c_i^{\kappa_i}.\ } $$
 
 This exactly boils down to what we are familiar within AP Chemistry---the `Concentration Equilibrium Constant`.
 
