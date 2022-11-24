@@ -1,5 +1,5 @@
 ---
-title: Use thermodynamics to calculate equilibrium constant
+title: Use the law of thermodynamics to calculate equilibrium constant
 date: 2022-11-23 19:54 +0800
 categories:
 - math
@@ -27,7 +27,7 @@ $$\text dG=V\mathrm{d}p - S\mathrm{d}T+\sum_i\mu_i\text dn_i. $$
 
 Do you notice the letter (or more precisely, notation) \\(\mu_ i\\) from the previous derivation? It is a rate constant determined by experimenting.
 
-WLOG define \\(n_i=\kappa_ i \mathrm d ξ}, where stoichiometry number \\(\kappa_ i = a_ i \text{ or } b_ i$, basically. Thus, \\(\text dn_ i=\kappa_ i\text d\xi\\). Assuming that the condition is constant temperature and pressure, \\(\text dG=0, \quad \textstyle \sum_ i\mu_ i\text dn_ i=0, or simply \\(\sum_ i \mu_ i \kappa_ i = 0\\).
+WLOG define \\(n_i=\kappa_ i \mathrm d ξ}\\), where stoichiometry number \\(\kappa_ i = a_ i \text{ or } b_ i$\\), basically. Thus, \\(\text dn_ i=\kappa_ i\text d\xi\\). Assuming that the condition is constant temperature and pressure, \\(\text dG=0, \quad \textstyle \sum_ i\mu_ i\text dn_ i=0, or simply \\(\sum_ i \mu_ i \kappa_ i = 0\\).
 
 Now, it's time for us to introduce the three Le Chatelier principles below.
 
@@ -96,7 +96,7 @@ $$\Delta \mu_i = \mu_i - \mu_i^\ominus = \int^{p_i}_{p^\ominus}\frac{RT}{p}~\mat
 
 Substitution to There is
 
-$$\begin{align} \sum_i\mu_i\kappa_i &=RT\sum_i \kappa_i\ln\frac{p_i}{p^\ominus}+\sum_i \mu_i^\ominus\kappa_i\\ &=RT\ln\prod_i\left(\frac{p_i}{p^\ominus}\right)^{\ kappa_i}+\Delta G^\ominus. \end{align} $$
+$$\begin{align} \sum_i\mu_i\kappa_i &=RT\sum_i \kappa_i\ln\frac{p_i}{p^\ominus}+\sum_i \mu_i^\ominus\kappa_i\\ &=RT\ln\prod_i\left(\frac{p_i}{p^\ominus}\right)^{\kappa_i}+\Delta G^\ominus. \end{align} $$
 
 namely
 
