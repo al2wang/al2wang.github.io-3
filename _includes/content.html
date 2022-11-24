@@ -11,9 +11,6 @@
     {%- assign year_string = year_from | append: '&nbsp;' | append: '-' | append: '&nbsp;' | append: year_to -%}
   {%- endif -%}
   <small>
-    &copy; {{ year_string }} {% if site.author %}<a href="{{ site.author.url }}">{{ site.author.name }}</a>{% endif %}. Some rights reserved.
-  </small>
-  <small>
-    Subscribe <a href="https://al2wang.github.io/feed.xml">via RSS</a>.
+    &copy; {{ year_string }} {% if site.author %}<a href="{{ site.author.url }}">{{ site.author.name }}</a>{% endif %}. Subscribe <a href="https://al2wang.github.io/feed.xml">via RSS</a>. Some rights reserved.
   </small>
 </footer>
