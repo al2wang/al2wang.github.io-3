@@ -15,7 +15,7 @@ toc : true
 
 ## Intro
 
-First, we write Gibbs as a function of temperature \\(T\\), pressure \\(p\\), and extent of reaction \\(\xi\\) (in case it sounds unfamiliar to you, this is a physical quantity used to describe a chemical process):
+First, we write Gibbs as a function of temperature \\(T\\), pressure \\(p\\), and extent of reaction \\(\xi\\) (in case it sounds a bit unfamiliar, this is a physical quantity solely used to describe a chemical process):
 
 $$\mathrm dG=-S\mathrm dT+V\mathrm dp-A\mathrm d\xi.$$
 
@@ -34,25 +34,30 @@ $$ H=G-T\left(\frac{\partial G}{\partial T}\right)_{p,\xi}. $$
 
 Thereby,
 
-$$ \left(\frac{\partial G}{\partial T}\right)_{p,\xi}=\frac{G-H}{T}. $$
+$$ \left(\frac{\partial G}{\partial T}\right)_ {p,\xi}=\frac{G-H}{T}. $$
 
 Diverge the two sides of the above equation to \\(\xi\\)  to obtain
 
-$$ \left(\frac{\partial^2G}{\partial T\partial\xi}\right)_p=\left(\frac{\partial}{\partial\xi}\left(\frac{G-H}{T}\right)\right)_{T,p}
+$$ \left(\frac{\partial^2G}{\partial T\partial\xi}\right)_ p=\left(\frac{\partial}{\partial\xi}\left(\frac{G-H}{T}\right)\right)_ {T,p}
 =\frac{-A}{T}-\frac{1}{T}\left(\frac{\partial H}{\partial\xi}\right)_ {T,p}. $$
 
 Under chemical equilibrium conditions, \\(A=0\\). And thus,
 
 $$ \left(\frac{\partial^2G}{\partial T\partial\xi}\right)_p=-\frac{1}{T}\left(\frac{\partial H}{\partial\xi}\right)_{T,p}. $$
 
-On the other hand, $$\left(\frac{\partial^2G}{\partial\xi\partial T}\right)_ p = -\left(\frac{\partial A}{\partial T}\right)_{p,\xi}.$$
+On the other hand,
+
+$$\left(\frac{\partial^2G}{\partial\xi\partial T}\right)_ p = -\left(\frac{\partial A}{\partial T}\right)_{p,\xi}.$$
 
 Therefore,
 
-$$ \left(\frac{\partial A}{\partial T}\right)_{p,\xi}=\frac{1}{T}\left(\frac{\partial H}{\partial\xi}\right)_{T,p}. $$ Again,
-$$ \left(\frac{\partial\xi}{\partial T}\right)_{A,p}=-\frac{\left(\frac{\partial A}{\partial T}\right)_{p,\xi}}{\left(\frac{\partial A}{\partial\xi}\right)_{T,p}}=-\frac{\frac1T\left(\frac{\partial H}{\partial \xi}\right)_{T,p}}{\left(\frac{\partial A}{\partial\xi}\right)_{T,p}}. $$
+$$ \left(\frac{\partial A}{\partial T}\right)_ {p,\xi}=\frac{1}{T}\left(\frac{\partial H}{\partial\xi}\right)_ {T,p}. $$
 
-Thus, when \\(\left(\frac{\partial H}{\partial\xi}\right)_{T,p}>0\\) (i.e. positive reaction endothermic), \\(\left(\frac{\partial\xi}{\partial T}\right)_{A,p}>0\\) (i.e. heating causes the positive reaction to proceed).
+Again,
+
+$$ \left(\frac{\partial\xi}{\partial T}\right)_ {A,p}=-\frac{\left(\frac{\partial A}{\partial T}\right)_ {p,\xi}}{\left(\frac{\partial A}{\partial\xi}\right)_ {T,p}}=-\frac{\frac1T\left(\frac{\partial H}{\partial \xi}\right)_ {T,p}}{\left(\frac{\partial A}{\partial\xi}\right)_ {T,p}}. $$
+
+Thus, when \\(\left(\frac{\partial H}{\partial\xi}\right)_ {T,p}>0\\) (i.e. positive reaction endothermic), \\(\left(\frac{\partial\xi}{\partial T}\right)_ {A,p}>0\\) (i.e. heating causes the positive reaction to proceed).
 
 ## Principle #2
 
@@ -61,13 +66,13 @@ Thus, when \\(\left(\frac{\partial H}{\partial\xi}\right)_{T,p}>0\\) (i.e. posit
 
 First things first, we have Maxwell relations
 
-$$ \left(\frac{\partial^2G}{\partial p\partial\xi}\right)_{T}=-\left(\frac{\partial A}{\partial p}\right)_{T,\xi}=\left(\frac{\partial V}{\partial\xi}\right)_{T,p},$$
+$$ \left(\frac{\partial^2G}{\partial p\partial\xi}\right)_ {T}=-\left(\frac{\partial A}{\partial p}\right)_ {T,\xi}=\left(\frac{\partial V}{\partial\xi}\right)_ {T,p},$$
 
 and this allows
 
 $$ \left(\frac{\partial\xi}{\partial p}\right)_{A,T}=-\frac{\left(\frac{\partial A}{\partial n}\right)_{T,n}}{\left(\frac{\partial A}{\partial\xi}\right)_{T,p}}=\frac{\left(\frac{\partial V}{\partial\xi}\right)_{T,p}}{\left(\frac{\partial A}{\partial\xi}\right)_{T,p}}. $$
 
-Thus, when \\(\left(\frac{\partial V}{\partial\xi}\right)_{T,p}>0\\) (i.e. the forward reaction increases the volume), \\(\left(\frac{\partial\xi}{\partial p}\right)_{A,T}<0\\) (i.e. pressurization will causes the inverse reaction to happen).
+Thus, when \\(\left(\frac{\partial V}{\partial\xi}\right)_ {T,p}>0\\) (i.e. the forward reaction increases the volume), \\(\left(\frac{\partial\xi}{\partial p}\right)_ {A,T}<0\\) (i.e. pressurization will causes the inverse reaction to happen).
 
 ## Principle #3
 
