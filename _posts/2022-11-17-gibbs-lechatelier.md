@@ -15,7 +15,9 @@ math : true
 toc : true
 ---
 
-![image](https://user-images.githubusercontent.com/104330029/203699885-5770e993-7fd2-4b68-b7c2-5a2d364a4076.png)
+<div style="text-align: center;">  
+  ![image](https://user-images.githubusercontent.com/104330029/203699885-5770e993-7fd2-4b68-b7c2-5a2d364a4076.png)
+</div>
 
 ## Intro
 
