@@ -15,9 +15,11 @@ math : true
 toc : true
 ---
 
+![image](https://user-images.githubusercontent.com/104330029/203699885-5770e993-7fd2-4b68-b7c2-5a2d364a4076.png)
+
 ## Intro
 
-This post serves as a sequel to our stoichiometry journey, providing us with a more crystal-clear explanation to the concentration equilibrium constant, \\(K_ c\\), which is kind of beyond a typical "excellence level".
+This post serves as a sequel to our stoichiometry journey, providing us with a more crystal-clear explanation to the concentration equilibrium constant, \\(K_ c\\), which is kind of a "beyond excellence level" concept.
 
 To begin with, we write Gibbs as a function of temperature \\(T\\), pressure \\(p\\), and extent of reaction \\(\xi\\) (in case it sounds a bit unfamiliar, this is a physical quantity solely used to describe a chemical process):
 
