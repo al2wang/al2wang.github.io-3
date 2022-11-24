@@ -27,7 +27,11 @@ $$\text dG=V\mathrm{d}p - S\mathrm{d}T+\sum_i\mu_i\text dn_i. $$
 
 Do you notice the letter (or more precisely, notation) \\(\mu_ i\\) from the previous derivation? It is a rate constant determined by experimenting.
 
-WLOG define \\(n_i=\kappa_ i \mathrm d ξ}\\), where stoichiometry number \\(\kappa_ i = a_ i \text{ or } b_ i$\\), basically. Thus, \\(\text dn_ i=\kappa_ i\text d\xi\\). Assuming that the condition is constant temperature and pressure, \\(\text dG=0, \quad \textstyle \sum_ i\mu_ i\text dn_ i=0, or simply \\(\sum_ i \mu_ i \kappa_ i = 0\\).
+WLOG define \\(n_i=\kappa_ i \mathrm d \xi\\), where stoichiometry number \\(\kappa_ i = a_ i \text{ or } b_ i\\), basically. Thus, \\(\text dn_ i=\kappa_ i\text d\xi\\). Assuming that the condition is constant temperature and pressure,
+
+$$\text dG=0, \quad \textstyle \sum_ i\mu_ i\text dn_ i=0, $$
+
+or simply \\(\sum_ i \mu_ i \kappa_ i = 0\\).
 
 Now, it's time for us to introduce the three Le Chatelier principles below.
 
@@ -74,7 +78,7 @@ Thus, when \\(\left(\frac{\partial H}{\partial\xi}\right)_ {T,p}>0\\) (i.e. posi
 
 First things first, we have Maxwell relations
 
-$$ \left(\frac{\partial^2G}{\partial p\partial\xi}\right)_ {T}=-\left(\frac{\partial A}{\partial p}\right)_ {T,\xi}=\left(\frac{\partial V}{\partial\xi}\right)_ {T,p}, \tag\#$$
+$$ \left(\frac{\partial^2G}{\partial p\partial\xi}\right)_ {T}=-\left(\frac{\partial A}{\partial p}\right)_ {T,\xi}=\left(\frac{\partial V}{\partial\xi}\right)_ {T,p}, \tag #$$
 
 and this allows
 
@@ -82,31 +86,31 @@ $$ \left(\frac{\partial\xi}{\partial p}\right)_{A,T}=-\frac{\left(\frac{\partial
 
 Thus, when \\(\left(\frac{\partial V}{\partial\xi}\right)_ {T,p}>0\\) (i.e. the forward reaction increases the volume), \\(\left(\frac{\partial\xi}{\partial p}\right)_ {A,T}<0\\) (i.e. pressurization will causes the inverse reaction to happen).
 
-From equation \\((\#)\\) we can derive that
+From equation \\((#)\\) we can derive that
 
-$${\partial \mu_i}/{\partial p}={\partial V}/{\partial \xi_i}.$$
+$$\frac{\partial \mu_i}{\partial p}=\frac{\partial V}{\partial \xi_i}.$$
 
 Put together with the equation of state \\(pV=nRT\\), there is
 
-$$\frac{\partial \mu_i}{\partial p}=\frac{RT}{p},$$
+$$\frac{\partial \mu_i}{\partial p}=\frac{RT}{p}.$$
 
-Then there is from the initial state to the equilibrium state
+Then, we can integrate eqn. \\((#)\\) from the initial state \\(p^\ominus\\) to the equilibrium state \\(p_ i\\),
 
 $$\Delta \mu_i = \mu_i - \mu_i^\ominus = \int^{p_i}_{p^\ominus}\frac{RT}{p}~\mathrm{d}p = RT\ln\frac{p_i}{p^\ominus}. $$
 
-Substitution to There is
+Substitution to this intricate integral will be
 
-$$\begin{align} \sum_i\mu_i\kappa_i &=RT\sum_i \kappa_i\ln\frac{p_i}{p^\ominus}+\sum_i \mu_i^\ominus\kappa_i\\ &=RT\ln\prod_i\left(\frac{p_i}{p^\ominus}\right)^{\kappa_i}+\Delta G^\ominus. \end{align} $$
+$$\begin{align} \sum_i\mu_i\kappa_i &=RT\sum_i \kappa_i\ln\frac{p_i}{p^\ominus}+\sum_i \mu_i^\ominus\kappa_i\\ &=RT\ln\prod_i\left(\frac{p_i}{p^\ominus}\right)^{\kappa_i}+\Delta G^\ominus, \end{align} $$
 
-namely
+namely,
 
 $$\ln\prod_i\left(\frac{p_i}{p^\ominus}\right)^{\kappa_i}=-\frac{ \Delta G^\ominus}{RT}. $$
 
-Consider the situation under the standardp^\ominus=1,Then the  **partial pressure equilibrium constant**  that we often expand in middle school is
+Consider the situation under the standard condition, where \\(p^\ominus = 1\\), then the partial pressure equilibrium constant \\(K_ p\\) that we often encounter in middle school AP Chem is
 
-$$ K_p=\prod_ip_i^{\kappa_i}. $$
+$$ K_p=\prod_ i p_ i^{\kappa_ i}. $$
 
-Apparently, it has something to do with temperature. If we now bring in Dalton's Law of partial pressure, \\(p=\textstyle \sum p_i\\), we will be able write it out as well \\(p_i=n_i p/n\\).
+Apparently, it has something to do with temperature as well. If we now bring in Dalton's Law of partial pressure, \\(p=\textstyle \sum p_i\\), we will be able write it out as well \\(p_i=n_i p/n\\).
 
 Then, it can be rephrased as
 
@@ -123,4 +127,4 @@ Since \\(\nu_i\mathrm  d\xi=\mathrm dn_i\\), there is
 
 $$ \left(\frac{\partial A}{\partial\xi}\right)_{T,p}=\nu_i\left(\frac{\partial A}{\partial n_i}\right)_{T,p},\qquad i=1,2,\dots$$
 
-Thus, when \\(\nu_i<0\\) (i.e. the positive reaction reduces reactant \\(i\\)), \\(\left(\frac{\partial A}{\partial\xi}\right)_ {T,p}>0\\) (i.e. increasing substance \\(i\\) causes \\(A>0\\), so that the reaction proceeds in a positive direction).
+Thus, when \\(\nu_i<0\\) (i.e. the positive reaction reduces reactant \\(i\\)), \\(\left(\frac{\partial A}{\partial\xi}\right)_ {T,p}>0\\) (i.e. increasing substance \\(i\\) causes \\(A>0\\), so that the reaction proceeds in a positive direction). \\(\qed .\\)
