@@ -1,12 +1,14 @@
 ---
 title: Use the law of thermodynamics to calculate equilibrium constant
-date: 2022-11-16 19:54 +0800
+date: 2022-11-17 19:54 +0800
 categories:
 - math
 - chem
+- physics
 tags:
-- chem
-- partial differential eqns
+- differential equation
+- calculus
+- thermodynamics
 layout: post
 excerpt: 'What the heck?!'
 math : true
