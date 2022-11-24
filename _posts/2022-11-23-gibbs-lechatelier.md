@@ -13,15 +13,20 @@ math : true
 toc : true
 ---
 
-First, we write Gibbs as a function of temperature \\(T\\), pressure \\(p\\), and extent of reaction \\(\xi\\) (a physical quantity used to describe a chemical process):
-$$ \mathrm dG=-S\mathrm dT+V\mathrm dp-A\mathrm d\xi. $$ where \\(A=0\\)  gives the chemical equilibrium condition, while \\(\left(\frac{\partial A}{\partial\xi}\right)_{T,p}<0\\) gives the chemical equilibrium stability condition.
+## Intro
+
+First, we write Gibbs as a function of temperature \\(T\\), pressure \\(p\\), and extent of reaction \\(\xi\\) (in case it sounds unfamiliar to you, this is a physical quantity used to describe a chemical process):
+
+$$\mathrm dG=-S\mathrm dT+V\mathrm dp-A\mathrm d\xi.$$
+
+where \\(A=0\\)  gives the chemical equilibrium condition, while \\(\left(\frac{\partial A}{\partial\xi}\right)_ {T,p}<0\\) gives the chemical equilibrium stability condition.
 
 Now, we introduce the three Le Chatelier principles below.
 
 ## Principle #1
 
 "When the temperature is raised, the reaction equilibrium moves in the direction of endothermic."
-{ : .message}
+{: .message}
 
 Note that  \\(G\\)  is a non-standard  Legendre transform of \\(H\\)  to \\(S\\), so there is
 
