@@ -10,14 +10,14 @@ tags:
 - calculus
 - thermodynamics
 layout: post
-excerpt: 'What the heck?!'
+excerpt: 'A sequel to stoichiometry in chemistry and physics contest.'
 math : true
 toc : true
 ---
 
 ## Intro
 
-This post serves as a sequel of our stoichiometry journey, providing us with a more crystal-clear explanation to the concentration equilibrium constant, \\(K_ c\\), which is kind of beyond a typical "excellence level".
+This post serves as a sequel to our stoichiometry journey, providing us with a more crystal-clear explanation to the concentration equilibrium constant, \\(K_ c\\), which is kind of beyond a typical "excellence level".
 
 To begin with, we write Gibbs as a function of temperature \\(T\\), pressure \\(p\\), and extent of reaction \\(\xi\\) (in case it sounds a bit unfamiliar, this is a physical quantity solely used to describe a chemical process):
 
