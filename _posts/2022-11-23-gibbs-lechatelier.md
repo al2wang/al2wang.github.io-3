@@ -1,6 +1,6 @@
 ---
 title: Use the law of thermodynamics to calculate equilibrium constant
-date: 2022-11-23 19:54 +0800
+date: 2022-11-16 19:54 +0800
 categories:
 - math
 - chem
