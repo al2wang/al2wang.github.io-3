@@ -1,6 +1,6 @@
 ---
 title: Dive deep into stoichiometry
-date: 2022-10-29 21:11 +0800
+date: 2022-11-16 07:11 +0800
 categories:
 - math
 - chem
