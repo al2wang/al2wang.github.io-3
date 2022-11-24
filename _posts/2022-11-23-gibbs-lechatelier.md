@@ -34,7 +34,7 @@ $$ \left(\frac{\partial G}{\partial T}\right)_{p,\xi}=\frac{G-H}{T}. $$
 Diverge the two sides of the above equation to \\(\xi\\)  to obtain
 
 $$ \left(\frac{\partial^2G}{\partial T\partial\xi}\right)_p=\left(\frac{\partial}{\partial\xi}\left(\frac{G-H}{T}\right)\right)_{T,p}
-=\frac{-A}{T}-\frac{1}{T}\left(\frac{\partial H}{\partial\xi}\right)_{T,p}. $$
+=\frac{-A}{T}-\frac{1}{T}\left(\frac{\partial H}{\partial\xi}\right)_ {T,p}. $$
 
 Under chemical equilibrium conditions, \\(A=0\\). And thus,
 
