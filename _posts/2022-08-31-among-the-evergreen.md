@@ -10,12 +10,9 @@ math : true
 
 <center> Among the Evergreen </center>
 
-The canyon stood defiantly in front of me,
-
-A hole but a wall, immovable, carved out through millions of years
-
+The canyon stood defiantly in front of me,\\
+A hole but a wall, immovable, carved out through millions of years\\
 By something as simple as water
-
 Yet so indescribably permanent
 
 This canyon, carved by a knife of the gods into the Jasper forest
