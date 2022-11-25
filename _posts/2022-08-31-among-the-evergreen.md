@@ -1,4 +1,15 @@
-
+---
+title: Use the law of thermodynamics to calculate equilibrium constant
+date: 2022-11-17 19:54 +0800
+categories:
+- literature
+tags:
+- poetry
+layout: post
+excerpt: 'The free verse poem I wrote about my experience walking along the Maligne Canyon in Jasper.'
+math : true
+toc : true
+---
 
 ## Among the Evergreen
 
@@ -44,4 +55,4 @@ I must simply be with it
 A man
 Against the immeasurable
 
-<cite> Alex Wang, late summer </cite>
+<cite> Alex Wang, late summer 2022 </cite>
