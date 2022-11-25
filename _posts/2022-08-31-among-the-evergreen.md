@@ -51,5 +51,4 @@ I long to be among the evergreen, but I will never be one with it\\
 I must simply be with it\\
 A man\\
 Against the immeasurable\\
-
-<cite> ---Alex Wang, late summer 2022 </cite>
+<p align="right"> <cite> Alex Wang, late summer 2022 </cite> </p>
