@@ -10,7 +10,8 @@ tags:
 - calculus
 - thermodynamics
 layout: post
-excerpt: 'From AP Chem to Olympiad.'
+author: Alex
+excerpt: 'From AP Chem to olympiad.'
 math : true
 toc : true
 ---
@@ -64,7 +65,7 @@ $$
 \end{equation}
 $$
 
-where $\mu_X$ and $\mu_Y$ are rate constants derived by experimenting.
+where \\(\mu_X\\) and \\(\mu_Y\\) are rate constants derived by experimenting.
 
 Apply a substitution
 
