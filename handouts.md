@@ -19,7 +19,7 @@ Coming soon
 - Min space-time map
 - Thomas spins
 - The problem of acceleration under special relativity
-- Lagrange mechanics
+- Lagrange mechanics [.pdf]()
 - Immersion (adiabatic) invariants
 - Variable refractive index optics and Hamiltonian optics (called Newtonian optics in some places)
 - Matrix optics and optical arrays and lens waveguides
@@ -30,7 +30,7 @@ Coming soon
 - Relativistic transformations of electromagnetic fields
 - Diffusion, heat conduction and current
 - Multibody collision problem
-- Bibliographic recommendations
+- Book recommendations
 
 ### IPhO Team Canada selection program
 - Training camp [webpage](https://sites.google.com/view/ipho-team-can-training/home)
