@@ -8,7 +8,7 @@ excerpt: 'The free verse poem I wrote about my experience walking along the Mali
 math : true
 ---
 
-<center> Among the Evergreen </center> \\
+<center> Among the Evergreen </center>
 
 The canyon stood defiantly in front of me,
 
