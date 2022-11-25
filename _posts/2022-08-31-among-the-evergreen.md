@@ -8,8 +8,8 @@ excerpt: 'The free verse poem I wrote about my experience walking along the Mali
 math : true
 ---
 
-<center> Among the Evergreen </center>
-
+<center> <b> Among the Evergreen </b> </center>
+  \\
 The canyon stood defiantly in front of me,\\
 A hole but a wall, immovable, carved out through millions of years\\
 By something as simple as water\\
