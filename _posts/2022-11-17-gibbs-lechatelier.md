@@ -33,7 +33,7 @@ $$\text dG=V\mathrm{d}p - S\mathrm{d}T+\sum_i\mu_i\text dn_i. $$
 
 Do you notice the letter (or more precisely, notation) \\(\mu_ i\\) from the previous derivation? It is a rate constant determined by experimenting.
 
-WLOG define \\(n_i=\kappa_ i \mathrm d \xi\\), where stoichiometry number \\(\kappa_ i = a_ i \text{ or } b_ i\\), basically. Thus, \\(\text dn_ i=\kappa_ i\text d\xi\\). Assuming that the condition is constant temperature and pressure,
+WLOG define \\(n_i=\kappa_ i \xi\\), where stoichiometry number \\(\kappa_ i = a_ i \text{ or } b_ i\\), basically. Thus, \\(\mathrm d n_ i=\kappa_ i\mathrm d\xi\\). Assuming that the condition is constant temperature and pressure,
 
 $$\text dG=0, \quad \textstyle \sum_ i\mu_ i\text dn_ i=0, $$
 
@@ -104,7 +104,7 @@ Then, we can integrate eqn. \\((※)\\) from the initial state \\(p^\ominus\\) t
 
 $$\Delta \mu_i = \mu_i - \mu_i^\ominus = \int^{p_i}_ {p^\ominus}\frac{RT}{p}~\mathrm{d}p = RT\ln\frac{p_i}{p^\ominus}. $$
 
-Substitution to this intricate integral will be
+Substituting \\(\Delta \mu_i\\) to \\(\sum_ i \mu_ i \kappa_ i = 0\\), this intricate integral will become
 
 $$\begin{align} \sum_i\mu_i\kappa_i &=RT\sum_i \kappa_i\ln\frac{p_i}{p^\ominus}+\sum_i \mu_i^\ominus\kappa_i\\ &=RT\ln\prod_i\left(\frac{p_i}{p^\ominus}\right)^{\kappa_i}+\Delta G^\ominus, \end{align} $$
 
@@ -129,8 +129,8 @@ This exactly boils down to what we are familiar within AP Chemistry---the `Conce
 "When a reactant is added, the reaction equilibrium shifts in the direction of reducing this reactant."
 {: .message}
 
-Since \\(\nu_i\mathrm  d\xi=\mathrm dn_i\\), there is
+Since \\(\kappa_i\mathrm  d\xi=\mathrm dn_i\\), there is
 
-$$ \left(\frac{\partial A}{\partial\xi}\right)_{T,p}=\nu_i\left(\frac{\partial A}{\partial n_i}\right)_{T,p},\qquad i=1,2,\dots$$
+$$ \left(\frac{\partial A}{\partial\xi}\right)_ {T,p}=\kappa _ i\left(\frac{\partial A}{\partial n_i}\right)_ {T,p},\qquad i=1,2,\dots$$
 
-Thus, when \\(\nu_i<0\\) (i.e. the positive reaction reduces reactant \\(i\\)), \\(\left(\frac{\partial A}{\partial\xi}\right)_ {T,p}>0\\) (i.e. increasing substance \\(i\\) causes \\(A>0\\), so that the reaction proceeds in a positive direction). \\(\quad □.\\)
+Thus, when \\(\kappa_i<0\\) (i.e. the positive reaction reduces reactant \\(i\\)), \\(\left(\frac{\partial A}{\partial\xi}\right)_ {T,p}>0\\) (i.e. increasing substance \\(i\\) causes \\(A>0\\), so that the reaction proceeds in a positive direction). \\(\quad □.\\)
