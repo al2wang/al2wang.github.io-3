@@ -9,6 +9,7 @@ tags:
 - differential equation
 - calculus
 - thermodynamics
+author: Alex
 layout: post
 excerpt: 'A sequel to stoichiometry in chemistry and physics contest.'
 math : true
