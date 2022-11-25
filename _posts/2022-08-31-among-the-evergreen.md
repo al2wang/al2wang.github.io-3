@@ -1,10 +1,8 @@
 ---
 title: Among the Evergreen
-date: 2022-11-17 19:54 +0800
-categories:
-- literature
-tags:
-- poetry
+date: 2022-08-31 18:13 +0800
+categories: literature
+tags: poetry
 layout: post
 excerpt: 'The free verse poem I wrote about my experience walking along the Maligne Canyon in Jasper.'
 math : true
