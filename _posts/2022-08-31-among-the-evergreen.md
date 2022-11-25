@@ -8,7 +8,7 @@ excerpt: 'The free verse poem I wrote about my experience walking along the Mali
 math : true
 ---
 
-  \\
+  
 <center> <b> Among the Evergreen </b> </center>
   \\
 The canyon stood defiantly in front of me,\\
@@ -51,5 +51,6 @@ I will never know\\
 I long to be among the evergreen, but I will never be one with it\\
 I must simply be with it\\
 A man\\
-Against the immeasurable\\
+Against the immeasurable
+
 <p align="right"> <cite> Alex Wang, late summer 2022 </cite> </p>
