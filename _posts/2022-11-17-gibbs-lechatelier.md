@@ -42,7 +42,7 @@ or simply
 
 $$ \sum_ i \mu_ i \kappa_ i = 0. $$
 
-Now, it's time for us to introduce the three Le Chatelier principles below.
+Now, it's time for us to introduce the three <mark> Le Chatelier Principles </mark> below.
 
 ## Principle #1
 
@@ -125,7 +125,7 @@ Then, it can be rephrased as
 
 $$ \boxed{K_c=\prod_i c_i^{\kappa_i}.} $$
 
-This result exactly boils down to what we are familiar within AP Chemistry---the `Concentration Equilibrium Constant`. \\(\quad □.\\)
+This result exactly boils down to what we are familiar within AP Chemistry---the <mark> Concentration Equilibrium Constant </mark>. \\(\quad □.\\)
 
 ## Principle #3
 
