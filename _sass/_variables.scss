@@ -54,7 +54,7 @@
   --spacer-3: calc(var(--spacer) * 3);
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   :root {
     --body-bg: var(--lightyellow);
     --body-color: var(--gray-300);
