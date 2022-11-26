@@ -7,6 +7,8 @@ tags:
 - electromagnetism
 layout: post
 excerpt: 'In the vacuum, inside a fixed ring of radius \\(R\\) with fixed charge $Q$ uniformly distributed, there is a point charge with charge $q$ and mass $m$ moving in the plane of the ring due tue the electrostatic force. It moves in the small region around the center of the ring, and the motion is periodic along a closed curve. The area of the region enclosed by the curve is $S$. Denote the distance from the center to the point charge as $r$, and $r\ll R$. Find the magnetic induction $B$ at the center of the ring.'
+math: true
+toc: true
 ---
 
 In the vacuum, inside a fixed ring of radius $R$ with fixed charge $Q$ uniformly distributed,
