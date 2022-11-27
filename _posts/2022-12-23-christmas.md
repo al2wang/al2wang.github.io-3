@@ -1,17 +1,13 @@
 ---
-title: Use the law of thermodynamics to calculate equilibrium constant
-date: 2022-11-17 19:54 +0800
+title: Merry Xmas!
+date: 2022-12-23 19:00 +0800
 categories:
 - math
-- chem
-- physics
 tags:
-- differential equation
-- calculus
-- thermodynamics
+- holiday
 author: Alex
 layout: post
-excerpt: 'A sequel to stoichiometry in chemistry and physics contest.'
+excerpt: 'Wish us good luck:)'
 math : true
 toc : true
 ---
