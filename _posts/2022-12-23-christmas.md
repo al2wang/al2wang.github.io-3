@@ -19,7 +19,7 @@ toc : true
 ## Merry Xmas! 
 
 $$
-\huge
+\Huge
 \begin{aligned}
 &y=\frac{\log _{e}\left(\frac{x}{m}-s a\right)}{r^{2}} \\
 &y r^{2}=\log _{e}\left(\frac{x}{m}-s a\right) \\
