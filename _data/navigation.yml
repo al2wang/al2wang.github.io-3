@@ -1,10 +1,10 @@
-- title: About😎
+- title: ~/about😎
   url: /about/
-- title: Post💬
+- title: ~/post💬
   url: /
-- title: Project💻
+- title: ~/project💻
   url: /projects/
-- title: Handout📝
+- title: ~/handout📝
   url: /handouts/
-- title: Others🔗
+- title: ~/others🔗
   url: /others/
