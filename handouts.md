@@ -9,9 +9,9 @@ date: 2022-11-12 14:22 +0800
 
 Coming soon
 
-## My handouts
+## My personal notes and handouts
 
-### Notes on specific olympiad topics
+### Notes on physics olympiad topics
 
 - Vector form of Lorentz transform and Sagnac effect
 - The matrix form of the Lorentz transform and the four-dimensional vector
@@ -31,6 +31,23 @@ Coming soon
 - Diffusion, heat conduction and current
 - Multibody collision problem
 - Book recommendations
+
+### Notes on AMC/AIME topics
+- 
+
+### Notes on algorithms
+- 
+
+### School coursework
+
+- Computing Science 30 assignments: [coming soon]()
+- Math 30-1 tutoring: [notes file]()
+- Math 31AP/35AP notes: [notes file]()
+- Physics 30
+  - Study technique: [comments.html]()
+  - Labs: [lab sheet.pdf](https://al2wang.github.io/handouts/lab_exam.pdf), [soln.pdf](), [comments.html]()
+- Social 30-1: [notes file]()
+- English LA 30-1: [notes file]()
 
 ### IPhO Team Canada selection program
 - Training camp [webpage](https://sites.google.com/view/ipho-team-can-training/home)
