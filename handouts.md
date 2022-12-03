@@ -44,7 +44,7 @@ Coming soon
 - Math 30-1 tutoring: [notes file]()
 - Math 31AP/35AP notes: [notes file]()
 - Physics 30
-  - Study technique: [comments.html](al2wang.github.io/handouts/study-techniques.html)
+  - Study technique: [comments.html](https://al2wang.github.io/handouts/study-techniques.html)
   - Labs: [lab sheet.pdf](https://al2wang.github.io/handouts/lab_exam.pdf), [soln.pdf](), [comments.html]()
 - Social 30-1: [notes file]()
 - English LA 30-1: [notes file]()
