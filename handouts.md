@@ -34,7 +34,7 @@ Coming soon
 
 ### Notes on math topics
 - AMC 12 and AIME:
-  - 
+  - 1
 
 ### Notes on algorithms
 - 
