@@ -32,8 +32,9 @@ Coming soon
 - Multibody collision problem
 - Book recommendations
 
-### Notes on AMC/AIME topics
-- 
+### Notes on math topics
+- AMC 12 and AIME:
+  - 
 
 ### Notes on algorithms
 - 
@@ -46,8 +47,12 @@ Coming soon
 - Physics 30
   - Study technique: [comments.html](https://al2wang.github.io/handouts/study-techniques.html)
   - Labs: [lab sheet.pdf](https://al2wang.github.io/handouts/lab_exam.pdf), [soln.pdf](), [comments.html]()
-- Social 30-1: [notes file]()
-- English LA 30-1: [notes file]()
+- Social 30-1:
+  - [Student notes all-in-one file]()
+  - [Key figures (1).html](https://al2wang.github.io/handouts/social-key-figures-in-renaissance.html)
+- English LA 30-1:
+  - [Essay notes]()
+  - 
 
 ### IPhO Team Canada selection program
 - Training camp [webpage](https://sites.google.com/view/ipho-team-can-training/home)
