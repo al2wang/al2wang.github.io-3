@@ -10,6 +10,8 @@ date: 2022-07-01 13:33 +0800
 
 ### Math
 - Terry Tao's [research blog](https://terrytao.wordpress.com/)
+- [That's Math](https://thatsmaths.com/)
+- NIST [Digital Library of Mathematical Functions](dlmf.nist.gov/)
 
 ### Computer Science
 - 
