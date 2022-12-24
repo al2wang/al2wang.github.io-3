@@ -20,9 +20,12 @@ date: 2022-07-01 13:33 +0800
 - Canadian Physics Society [homepage](https://www.canphysoc.org/)
 
 ### School
-- Strathcona High School [website](https://strathcona.epsb.ca/)
-- Scona Alumni [website](https://sconaalumni.com/) (login required)
-- Scona Swim Team [google site](https://sites.google.com/view/scona-swim-team/home)
+- [Strathcona Composite High School](https://strathcona.epsb.ca/)
+- [Scona Alumni association](https://sconaalumni.com/) (login required)
+- Scona Swim Team [2022 Season](https://sites.google.com/view/scona-swim-team/home)
+- [Scona Athletes official website](https://sites.google.com/share.epsb.ca/sconaathletics/home)
+- [Scona Math Club](https://sconamathclub.blogspot.com/) with Mr. Goldthorpe, Ms. Lei and Mr. Lyons
 
 ### Friends
 - Jimmy Wu's [`sehzblog@wordpress`](https://sehzblog.wordpress.com)
+- 
