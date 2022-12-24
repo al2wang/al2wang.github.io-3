@@ -22,7 +22,7 @@ date: 2022-07-01 13:33 +0800
 ### School
 - [Strathcona Composite High School](https://strathcona.epsb.ca/)
 - [Scona Alumni association](https://sconaalumni.com/) (login required)
-- Scona Swim Team [2022 Season](https://sites.google.com/view/scona-swim-team/home)
+- [Scona Swim Team 2022 Season](https://sites.google.com/view/scona-swim-team/home)
 - [Scona Athletes official website](https://sites.google.com/share.epsb.ca/sconaathletics/home)
 - [Scona Math Club](https://sconamathclub.blogspot.com/) with Mr. Goldthorpe, Ms. Lei and Mr. Lyons
 
