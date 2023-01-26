@@ -20,11 +20,9 @@ date: 2022-07-01 13:33 +0800
 - Canadian Physics Society [homepage](https://www.canphysoc.org/)
 
 ### School
-- [Strathcona Composite High School](https://strathcona.epsb.ca/)
-- [Scona Alumni association](https://sconaalumni.com/) (login required)
-- [Scona Swim Team 2022 Season](https://sites.google.com/view/scona-swim-team/home)
-- [Scona Athletes official website](https://sites.google.com/share.epsb.ca/sconaathletics/home)
-- [Scona Math Club](https://sconamathclub.blogspot.com/) with Mr. Goldthorpe, Ms. Lei and Mr. Lyons
+- Official website: [Strathcona Composite High School](https://strathcona.epsb.ca/), [AP Program Brochure](https://strathcona.epsb.ca/media/highschools/strathcona/SCHS_brochure2023-24_F.pdf), [Scona Alumni association](https://sconaalumni.com/) (login required)
+- Clubs and events: [Scona Math Club](https://sconamathclub.blogspot.com/), [Scona Swim Team 2022 Season](https://sites.google.com/view/scona-swim-team/home).
+- Diploma Resources: [Math 30-1](https://sites.google.com/epsb.ca/sconamath30-1/home), [Phys 30](https://sites.google.com/a/share.epsb.ca/mr-g-scona-physics-30/Home?authuser=0), [Chem 30](https://mrgrainger.schoolsites.ca/chemistry-30-eteacher), [Bio 30](https://sites.google.com/epsb.ca/hewko-ology/bio-30-scona/curriculum?authuser=0).
 
 ### Friends
 - Jimmy Wu's [`sehzblog@wordpress`](https://sehzblog.wordpress.com)
