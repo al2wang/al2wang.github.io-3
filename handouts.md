@@ -47,6 +47,7 @@ Coming soon
 - Physics 30
   - Study technique: [comments.html](https://al2wang.github.io/handouts/study-techniques.html)
   - Labs: [lab sheet.pdf](https://al2wang.github.io/handouts/lab_exam.pdf), [soln.pdf](), [comments.html]()
+  - Peer tutoring session notes [sample (Phys 30)](https://drive.google.com/file/d/188B66z9faz9GLs8yGlXYl0ppxsJ_m2jf/view?usp=sharing)
 - Social 30-1:
   - [Student notes all-in-one file]()
   - [Key figures (1).html](https://al2wang.github.io/handouts/social-key-figures-in-renaissance.html)
