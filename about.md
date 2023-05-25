@@ -16,6 +16,14 @@ Hey there! I’m Alex G. Y. Wang, a passionate high school student exploring the
 
 I was born in Shenzhen, a major sub-provincial metropolis and one of the special economic zones of China. Currently, I’m schooling at Strathcona HS in Edmonton, AB.
 
+UPD May 24, 2023:
+
+Guangyuan Alex Wang is an aspiring Computer Science and Statistics student incoming at McGill University, where he will be pursuing a Joint Honours Bachelor of Science degree.
+
+Since an early age, Alex has excelled in a wide range of Math and Science Olympiads. He enjoys the opportunity these challenges provide and the critical thinking exercises they require. Deep learning, NLP, and distributed machine learning are some of his main areas of research interest.
+
+Alex marvels at the extraordinary contributions of Turing Award winners Dr. Yoshua Bengio and Dr. Geoffrey Hinton to the advancement of artificial intelligence that empowers human society. He particularly admires the brilliant integration of AI and interdisciplinary studies at MILA and the Vector Institute, which he believes to be their most distinctive strength. Following the work of these groups has led Alex to see a perfect fit for his abilities and passions at McGill University.
+
 ## School bio
 
 $$\textbf{SZMS}+\textbf{Scona}\ ' 23$$
