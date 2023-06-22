@@ -24,20 +24,16 @@ Since an early age, Alex has excelled in a wide range of Math and Science Olympi
 
 Alex marvels at the extraordinary contributions of Turing Award winners Dr. Yoshua Bengio and Dr. Geoffrey Hinton to the advancement of artificial intelligence that empowers human society. He particularly admires the brilliant integration of AI and interdisciplinary studies at MILA and the Vector Institute, which he believes to be their most distinctive strength. Following the work of these groups has led Alex to see a perfect fit for his abilities and passions at McGill University.
 
-A copy of my CV/resume can be found [here](al2wang.github.io/cv 0622.pdf)
+A copy of my CV can be found [here](https://al2wang.github.io/cv%200622.pdf).
 
-## School bio
+## Personal interests
 
-$$\textbf{SZMS}+\textbf{Scona}\ ' 23$$
-
-## Interests
-
-- Computational science
-- Deep learning
-- Applied math
-- Creative writing
+- Mountaing biking
+- Swimming, esp. the relays
+- Railfanning
 - Photography
-- etc.
+- Reading (well... mostly math books mhmm :)
+- Watching TV shows, some of my favs: Agents of SHIELD, Friends, Stranger Things, Man In The High Castle
 
 ## Peer tutorings
 
