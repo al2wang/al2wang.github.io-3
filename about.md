@@ -24,6 +24,8 @@ Since an early age, Alex has excelled in a wide range of Math and Science Olympi
 
 Alex marvels at the extraordinary contributions of Turing Award winners Dr. Yoshua Bengio and Dr. Geoffrey Hinton to the advancement of artificial intelligence that empowers human society. He particularly admires the brilliant integration of AI and interdisciplinary studies at MILA and the Vector Institute, which he believes to be their most distinctive strength. Following the work of these groups has led Alex to see a perfect fit for his abilities and passions at McGill University.
 
+A copy of my CV/resume can be found ![here]()
+
 ## School bio
 
 $$\textbf{SZMS}+\textbf{Scona}\ ' 23$$
